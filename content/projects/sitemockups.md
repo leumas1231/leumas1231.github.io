@@ -9,7 +9,7 @@ image = "wizlogo.png"
 top_project = true
 
 [taxonomies]
-projects=["Drone Photography"]
+projects=["Class"]
 skills=["Photoshop", "Adobe Illustrator", "Graphic Design", "Logo Creation", "Wireframing", "Mockup Design"]
 +++
 
