@@ -1,0 +1,46 @@
+# The URL the site will be built for
+base_url = "https://leumas1231.github.io"
+
+theme = "project-portfolio"
+
+
+title = "Samuel Jindra"
+description = "Samuel Jindra's Software/Web Portfolio"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# When set to true, the generated HTML files are minified
+minify_html = true
+
+taxonomies = [
+    { name = "projects", paginate_by = 5, feed = true },
+    { name = "skills", paginate_by = 5, feed = true },
+    { name = "blog-tags", paginated_by = 5, feed = true },
+]
+
+[search]
+index_format = "elasticlunr_json"
+
+[extra]
+enable_theme_switching = true
+
+[extra.navbar]
+links = [
+    { url = "projects", i18n_key = "projects" },
+    { url = "skills", i18n_key = "skills" },
+    { url = "blog", i18n_key = "blog" },
+]
+
+# [extra.footer]
+# notice = '<a href="https://www.winterstein.biz">Adrian Winterstein</a><br>Powered by <a href="https://getzola.org">Zola</a>, <a href="https://tailwindcss.com">TailwindCSS</a> & <a href="https://daisyui.com">DaisyUI</a>'
+
+[extra.index]
+slogan = "My great slogan"
+image = "portrait.webp"
+image_alt = "Placeholder text describing the index's image."
+
+[extra.social]
+# github = "https://github.com/johndoe"
+linkedin = "https://www.linkedin.com/in/samuel-jindra/"
+email = "samueljindra31@gmail.com"
