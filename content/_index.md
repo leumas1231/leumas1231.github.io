@@ -1,3 +1,3 @@
 +++
-title = "Main Title"
+title = "Samuel Jindra"
 +++
