@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - SignalR</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://leumas1231.github.io/skills/signalr/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://leumas1231.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-31T00:00:00+00:00</updated>
+    <id>https://leumas1231.github.io/skills/signalr/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Multiplayer Poker Game, Unity</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/poker/"/>
+        <id>https://leumas1231.github.io/projects/poker/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/poker/">&lt;p&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented a computer-controlled opponent with strategic logic to enhance single-player mode.&lt;&#x2F;li&gt;
+&lt;li&gt;Developed an account registration system with secure data storage, integrating a database to manage player profiles and game records.&lt;&#x2F;li&gt;
+&lt;li&gt;Applied technologies such as ASP.Net, MVC architecture, and Azure services to improve functionality and performance.&lt;&#x2F;li&gt;
+&lt;li&gt;Utilized Git for version control and project collaboration, ensuring efficient code management.&lt;&#x2F;li&gt;
+&lt;li&gt;Demonstrated problem-solving skills by debugging connection issues, improving game stability, and enhancing user experience.&lt;&#x2F;li&gt;
+&lt;li&gt;Successfully delivered a functional game that showcased technical skills and knowledge gained throughout the course.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

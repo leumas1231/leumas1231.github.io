@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Adobe Illustrator</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://leumas1231.github.io/skills/adobe-illustrator/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://leumas1231.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <id>https://leumas1231.github.io/skills/adobe-illustrator/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Web Design Mockups</title>
+        <published>2025-12-31T00:00:00+00:00</published>
+        <updated>2025-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/sitemockups/"/>
+        <id>https://leumas1231.github.io/projects/sitemockups/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/sitemockups/">&lt;p&gt;his gallery showcases website design mockups and interface layouts created using a variety of tools for academic and professional use.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed web layout mockups for client and class-based projects.&lt;&#x2F;li&gt;
+&lt;li&gt;Applied brand consistency and accessibility standards to UI components.&lt;&#x2F;li&gt;
+&lt;li&gt;Used tools like Photoshop and Illustrator to create wireframes and high-fidelity visuals.&lt;&#x2F;li&gt;
+&lt;li&gt;Created responsive page concepts and marketing visuals for mock websites.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;gallery&quot;&gt;Gallery&lt;&#x2F;h2&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;imain.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;imain.png&quot; alt=&quot;Indian food image 1 class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;imenu.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;imenu.png&quot; alt=&quot;Indian food image 2&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;icatering.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;icatering.png&quot; alt=&quot;Indian food image 3&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;homewire.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;homewire.png&quot; alt=&quot;Drone Image 4&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;lorimobile.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;lorimobile.png&quot; alt=&quot;Drone Image 5&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;pportfolio.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;pportfolio.png&quot; alt=&quot;Drone Image 6&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+     &lt;a href=&quot;&#x2F;images&#x2F;wizlogo.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;wizlogo.png&quot; alt=&quot;Drone Image 7&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

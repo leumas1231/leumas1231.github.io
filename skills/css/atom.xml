@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - CSS</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://leumas1231.github.io/skills/css/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://leumas1231.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-31T00:00:00+00:00</updated>
+    <id>https://leumas1231.github.io/skills/css/atom.xml</id>
+    <entry xml:lang="en">
+        <title>DvDCentral</title>
+        <published>2024-05-31T00:00:00+00:00</published>
+        <updated>2024-05-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/dvdcentral/"/>
+        <id>https://leumas1231.github.io/projects/dvdcentral/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/dvdcentral/">&lt;p&gt;This project allowed me to apply and expand my technical skills in various key areas. It provided valuable experience in full-stack development, database integration, and cloud-based solutions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented Object-Oriented Programming (OOP) principles to create efficient, modular code.&lt;&#x2F;li&gt;
+&lt;li&gt;Utilized ASP.Net, MVC, and MVVM architectures to build a structured and maintainable web application.&lt;&#x2F;li&gt;
+&lt;li&gt;Managed version control using Git, ensuring smooth development and tracking of changes.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Microsoft Azure services, including DevOps, SQL Database, and API Keys, to enhance functionality and scalability.&lt;&#x2F;li&gt;
+&lt;li&gt;Developed and tested the project using the Visual Studio development environment, applying best practices to ensure code quality and performance.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

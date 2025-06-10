@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Video Editing</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://leumas1231.github.io/skills/video-editing/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://leumas1231.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <id>https://leumas1231.github.io/skills/video-editing/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Drone Photography</title>
+        <published>2025-12-31T00:00:00+00:00</published>
+        <updated>2025-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/videography/"/>
+        <id>https://leumas1231.github.io/projects/videography/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/videography/">&lt;p&gt;This gallery showcases natural landscapes, architectural compositions, and urban environments from a new perspective.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Captured high-resolution drone imagery across multiple regions and weather conditions.&lt;&#x2F;li&gt;
+&lt;li&gt;Edited and color-graded aerial footage using Photoshop and DaVinci Resolve.&lt;&#x2F;li&gt;
+&lt;li&gt;Complied with FAA regulations during all flight operations.&lt;&#x2F;li&gt;
+&lt;li&gt;Delivered promotional content for local nonprofit.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;gallery&quot;&gt;Gallery&lt;&#x2F;h2&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;dronetop.jpg&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;dronetop.jpg&quot; alt=&quot;Drone Image 1&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;dronewater.jpg&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;dronewater.jpg&quot; alt=&quot;Drone Image 2&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;dronewater2.jpg&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;dronewater2.jpg&quot; alt=&quot;Drone Image 3&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;firework.JPG&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;firework.JPG&quot; alt=&quot;Drone Image 4&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;kimberly.JPG&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;kimberly.JPG&quot; alt=&quot;Drone Image 5&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;beach.JPG&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;beach.JPG&quot; alt=&quot;Drone Image 6&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+     &lt;a href=&quot;&#x2F;images&#x2F;bridge.JPG&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;bridge.JPG&quot; alt=&quot;Drone Image 7&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+     &lt;a href=&quot;&#x2F;images&#x2F;bridge2.JPG&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;bridge2.JPG&quot; alt=&quot;Drone Image 8&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>BizSquad - Fox Valley Trout Unlimited</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/trout/"/>
+        <id>https://leumas1231.github.io/projects/trout/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/trout/">&lt;p&gt;Fox Valley Trout Unlimited is an active chapter of
+Trout Unlimited located in the Fox Valley
+southwest of Green Bay Wisconsin.&lt;&#x2F;p&gt;
+&lt;p&gt;The 200+ members of Fox Valley TU are united by
+their love of fishing and a deep commitment to
+conservation. Driven by a passion to preserve and
+protect trout habitats, FVTU works tirelessly to ensure
+that future generations can enjoy the beauty and thrill
+of trout fishing. Through hands-on projects, advocacy,
+and education, FVTU strives to safeguard local waterways
+and create a sustainable environment where trout
+populations can thrive for years to come.&lt;&#x2F;p&gt;
+&lt;p&gt;https:&#x2F;&#x2F;foxvalleytu.org&#x2F;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;li&gt;
+&lt;li&gt;Reorganized and restructured WordPress website to better align with organization’s goals, enhancing site navigation,
+user experience, and ensuring mobile responsiveness for better accessibility on all devices.&lt;&#x2F;li&gt;
+&lt;li&gt;Produced engaging video content to effectively communicate organization&#x27;s mission and events.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Facebook feed into website to streamline event promotion, leading to more efficient event management
+and improved participation from members.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked closely with organization leaders ensuring digital strategies were in line with their vision, creating a more
+unified and effective online presence.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

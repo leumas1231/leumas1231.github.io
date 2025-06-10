@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Basecamp</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://leumas1231.github.io/skills/basecamp/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://leumas1231.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-31T00:00:00+00:00</updated>
+    <id>https://leumas1231.github.io/skills/basecamp/atom.xml</id>
+    <entry xml:lang="en">
+        <title>BizSquad - Seeds of Hope</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/seeds/"/>
+        <id>https://leumas1231.github.io/projects/seeds/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/seeds/">&lt;p&gt;The Seeds of Hope Financial Assistance Fund was established to support financial needs of current Fox Valley Tech students. The fund, which is managed by the FVTC Foundation, is designed to assist students with a financial shortfall to pay for educational or personal expenses.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed new web pages and enhanced existing ones using Adobe Illustrator, improving organization&#x27;s visual identity and user experience.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a strategic content outline to expand the organization&#x27;s outreach efforts, increasing engagement with key audiences.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Partnered with organization leaders to ensure website redesign aligned with their goals, resulting in a more effective communication platform.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>BizSquad - Fox Valley Trout Unlimited</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/trout/"/>
+        <id>https://leumas1231.github.io/projects/trout/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/trout/">&lt;p&gt;Fox Valley Trout Unlimited is an active chapter of
+Trout Unlimited located in the Fox Valley
+southwest of Green Bay Wisconsin.&lt;&#x2F;p&gt;
+&lt;p&gt;The 200+ members of Fox Valley TU are united by
+their love of fishing and a deep commitment to
+conservation. Driven by a passion to preserve and
+protect trout habitats, FVTU works tirelessly to ensure
+that future generations can enjoy the beauty and thrill
+of trout fishing. Through hands-on projects, advocacy,
+and education, FVTU strives to safeguard local waterways
+and create a sustainable environment where trout
+populations can thrive for years to come.&lt;&#x2F;p&gt;
+&lt;p&gt;https:&#x2F;&#x2F;foxvalleytu.org&#x2F;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;li&gt;
+&lt;li&gt;Reorganized and restructured WordPress website to better align with organization’s goals, enhancing site navigation,
+user experience, and ensuring mobile responsiveness for better accessibility on all devices.&lt;&#x2F;li&gt;
+&lt;li&gt;Produced engaging video content to effectively communicate organization&#x27;s mission and events.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Facebook feed into website to streamline event promotion, leading to more efficient event management
+and improved participation from members.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked closely with organization leaders ensuring digital strategies were in line with their vision, creating a more
+unified and effective online presence.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

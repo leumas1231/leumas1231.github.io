@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Class</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://leumas1231.github.io/projects/class/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://leumas1231.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <id>https://leumas1231.github.io/projects/class/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Web Design Mockups</title>
+        <published>2025-12-31T00:00:00+00:00</published>
+        <updated>2025-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/sitemockups/"/>
+        <id>https://leumas1231.github.io/projects/sitemockups/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/sitemockups/">&lt;p&gt;his gallery showcases website design mockups and interface layouts created using a variety of tools for academic and professional use.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed web layout mockups for client and class-based projects.&lt;&#x2F;li&gt;
+&lt;li&gt;Applied brand consistency and accessibility standards to UI components.&lt;&#x2F;li&gt;
+&lt;li&gt;Used tools like Photoshop and Illustrator to create wireframes and high-fidelity visuals.&lt;&#x2F;li&gt;
+&lt;li&gt;Created responsive page concepts and marketing visuals for mock websites.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;gallery&quot;&gt;Gallery&lt;&#x2F;h2&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;imain.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;imain.png&quot; alt=&quot;Indian food image 1 class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;imenu.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;imenu.png&quot; alt=&quot;Indian food image 2&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;icatering.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;icatering.png&quot; alt=&quot;Indian food image 3&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;homewire.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;homewire.png&quot; alt=&quot;Drone Image 4&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;lorimobile.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;lorimobile.png&quot; alt=&quot;Drone Image 5&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;pportfolio.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;pportfolio.png&quot; alt=&quot;Drone Image 6&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+     &lt;a href=&quot;&#x2F;images&#x2F;wizlogo.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;wizlogo.png&quot; alt=&quot;Drone Image 7&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Multiplayer Poker Game, Unity</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/poker/"/>
+        <id>https://leumas1231.github.io/projects/poker/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/poker/">&lt;p&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented a computer-controlled opponent with strategic logic to enhance single-player mode.&lt;&#x2F;li&gt;
+&lt;li&gt;Developed an account registration system with secure data storage, integrating a database to manage player profiles and game records.&lt;&#x2F;li&gt;
+&lt;li&gt;Applied technologies such as ASP.Net, MVC architecture, and Azure services to improve functionality and performance.&lt;&#x2F;li&gt;
+&lt;li&gt;Utilized Git for version control and project collaboration, ensuring efficient code management.&lt;&#x2F;li&gt;
+&lt;li&gt;Demonstrated problem-solving skills by debugging connection issues, improving game stability, and enhancing user experience.&lt;&#x2F;li&gt;
+&lt;li&gt;Successfully delivered a functional game that showcased technical skills and knowledge gained throughout the course.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>TravelPallete</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/travelpallete/"/>
+        <id>https://leumas1231.github.io/projects/travelpallete/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/travelpallete/">&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrated OpenStreetMap data and MapBox API to display local businesses, customizing the map with tailored icons and preferences specific to TravelPallete.&lt;&#x2F;li&gt;
+&lt;li&gt;Designed and refined the map interface to ensure a user-friendly and visually appealing experience.&lt;&#x2F;li&gt;
+&lt;li&gt;Contributed to database development, enabling user registration and the ability to save locations to personalized &quot;trip&quot; itineraries for enhanced trip planning.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked with technologies such as C#, Azure, SQL, CSS, HTML, and JavaScript to deliver a functional and engaging platform.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborated with a web designer to align the site&#x27;s theme and icons with the project&#x27;s vision, ensuring a cohesive user experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>DvDCentral</title>
+        <published>2024-05-31T00:00:00+00:00</published>
+        <updated>2024-05-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/dvdcentral/"/>
+        <id>https://leumas1231.github.io/projects/dvdcentral/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/dvdcentral/">&lt;p&gt;This project allowed me to apply and expand my technical skills in various key areas. It provided valuable experience in full-stack development, database integration, and cloud-based solutions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented Object-Oriented Programming (OOP) principles to create efficient, modular code.&lt;&#x2F;li&gt;
+&lt;li&gt;Utilized ASP.Net, MVC, and MVVM architectures to build a structured and maintainable web application.&lt;&#x2F;li&gt;
+&lt;li&gt;Managed version control using Git, ensuring smooth development and tracking of changes.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Microsoft Azure services, including DevOps, SQL Database, and API Keys, to enhance functionality and scalability.&lt;&#x2F;li&gt;
+&lt;li&gt;Developed and tested the project using the Visual Studio development environment, applying best practices to ensure code quality and performance.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

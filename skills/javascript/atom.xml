@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Javascript</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://leumas1231.github.io/skills/javascript/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://leumas1231.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-31T00:00:00+00:00</updated>
+    <id>https://leumas1231.github.io/skills/javascript/atom.xml</id>
+    <entry xml:lang="en">
+        <title>TravelPallete</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://leumas1231.github.io/projects/travelpallete/"/>
+        <id>https://leumas1231.github.io/projects/travelpallete/</id>
+        
+        <content type="html" xml:base="https://leumas1231.github.io/projects/travelpallete/">&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrated OpenStreetMap data and MapBox API to display local businesses, customizing the map with tailored icons and preferences specific to TravelPallete.&lt;&#x2F;li&gt;
+&lt;li&gt;Designed and refined the map interface to ensure a user-friendly and visually appealing experience.&lt;&#x2F;li&gt;
+&lt;li&gt;Contributed to database development, enabling user registration and the ability to save locations to personalized &quot;trip&quot; itineraries for enhanced trip planning.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked with technologies such as C#, Azure, SQL, CSS, HTML, and JavaScript to deliver a functional and engaging platform.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborated with a web designer to align the site&#x27;s theme and icons with the project&#x27;s vision, ensuring a cohesive user experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
