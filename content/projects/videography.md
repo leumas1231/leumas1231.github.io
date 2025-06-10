@@ -2,7 +2,6 @@
 title = "Drone Photography"
 description = "A collection of aerial shots and cinematic captures taken using a variety of drones."
 date = 2025-12-31
-template = "project.html"
 
 [extra]
 date_start = 2020-09-01
