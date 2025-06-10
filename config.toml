@@ -7,6 +7,8 @@ theme = "project-portfolio"
 title = "Samuel Jindra"
 description = "Samuel Jindra's Software/Web Portfolio"
 
+
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
@@ -23,7 +25,8 @@ taxonomies = [
 index_format = "elasticlunr_json"
 
 [extra]
-enable_theme_switching = true
+daisyui_theme_light = "light"
+daisyui_theme_dark = "dark"
 
 [extra.navbar]
 links = [
