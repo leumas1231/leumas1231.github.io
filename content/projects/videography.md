@@ -37,20 +37,20 @@ This gallery showcases natural landscapes, architectural compositions, and urban
     <a href="/images/dronewater2.jpg" class="glightbox" data-gallery="drone-gallery">
       <img src="/images/dronewater2.jpg" alt="Drone Image 3" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
-    <a href="/images/firework.jpg" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/firework.jpg" alt="Drone Image 4" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    <a href="/images/firework.JPG" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/firework.JPG" alt="Drone Image 4" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
         <a href="/images/kimberly.jpg" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/kimberly.jpg" alt="Drone Image 4" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+      <img src="/images/kimberly.jpg" alt="Drone Image 5" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
-        <a href="/images/beach.jpg" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/beach.jpg" alt="Drone Image 4" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+        <a href="/images/beach.JPG" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/beach.JPG" alt="Drone Image 6" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
-     <a href="/images/bridge.jpg" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/bridge.jpg" alt="Drone Image 4" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+     <a href="/images/bridge.JPG" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/bridge.JPG" alt="Drone Image 7" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
-     <a href="/images/bridge2.jpg" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/bridge2.jpg" alt="Drone Image 4" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+     <a href="/images/bridge2.JPG" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/bridge2.JPG" alt="Drone Image 8" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
   </div>
 </div>

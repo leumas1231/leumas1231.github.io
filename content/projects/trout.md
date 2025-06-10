@@ -13,8 +13,19 @@ projects=["Non-profit"]
 skills=["Consulting", "Project Management", "WordPress", "Web Development", "Basecamp", "Videography", "Video Editing", "Photo Editing"]
 +++
 
-Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
-members and increased visibility within the community.
+Fox Valley Trout Unlimited is an active chapter of
+Trout Unlimited located in the Fox Valley
+southwest of Green Bay Wisconsin.
+
+The 200+ members of Fox Valley TU are united by
+their love of fishing and a deep commitment to
+conservation. Driven by a passion to preserve and
+protect trout habitats, FVTU works tirelessly to ensure
+that future generations can enjoy the beauty and thrill
+of trout fishing. Through hands-on projects, advocacy,
+and education, FVTU strives to safeguard local waterways
+and create a sustainable environment where trout
+populations can thrive for years to come.
 
 https://foxvalleytu.org/
 

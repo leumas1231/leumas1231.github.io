@@ -13,7 +13,7 @@ projects=["Non-profit"]
 skills=["Consulting", "Project Management", "Graphic Design","Basecamp", "Photo Editing"]
 +++
 
-More information about how the world was saved by this project is available here. So, that the reader can fully understand why it is important and what is interesting about it.
+The Seeds of Hope Financial Assistance Fund was established to support financial needs of current Fox Valley Tech students. The fund, which is managed by the FVTC Foundation, is designed to assist students with a financial shortfall to pay for educational or personal expenses.
 
 ## Responsibilities
 
