@@ -9,7 +9,7 @@ image = "biz.png" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
-projects=["Non-profit"]
+projects=["Non-profit", "Internship"]
 skills=["Consulting", "Project Management", "Graphic Design","Basecamp", "Photo Editing"]
 +++
 

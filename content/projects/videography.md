@@ -40,8 +40,8 @@ This gallery showcases natural landscapes, architectural compositions, and urban
     <a href="/images/firework.JPG" class="glightbox" data-gallery="drone-gallery">
       <img src="/images/firework.JPG" alt="Drone Image 4" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
-        <a href="/images/kimberly.jpg" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/kimberly.jpg" alt="Drone Image 5" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+        <a href="/images/kimberly.JPG" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/kimberly.JPG" alt="Drone Image 5" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
         <a href="/images/beach.JPG" class="glightbox" data-gallery="drone-gallery">
       <img src="/images/beach.JPG" alt="Drone Image 6" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
