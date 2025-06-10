@@ -35,6 +35,7 @@ title = "Samuel Jindra"
         <h3 class="text-xl font-semibold text-primary">Drone Photography</h3>
         <p class="text-gray-700 dark:text-gray-300 text-sm">Outside of work, I explore creative technologies like drone photography. It’s a hands-on way I continue learning tools like Photoshop while capturing unique perspectives.</p>
         <!-- <a href="#" class="text-sm font-medium text-primary hover:underline inline-block mt-2">View Projects →</a> -->
+        <!-- test -->
       </div>
     </div>
   </div>
