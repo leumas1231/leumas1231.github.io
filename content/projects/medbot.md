@@ -75,24 +75,61 @@ I began by evaluating the existing manual reporting process to identify ineffici
 
 MedBot reinforced the importance of designing for clarity in text-based interfaces where visual cues are limited. I learned that thoughtful interaction design, structured feedback, and iterative refinement can significantly improve user confidence and reduce friction. This project strengthened my ability to balance technical implementation with user-centered workflow design.
 
-<div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
-  <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
-    <a href="/images/medreports.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/medreports.png" alt="MedBot Report Function" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
-    </a>
-    <a href="/images/report1.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/report1.png" alt="MedBot inserting a job" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
-    </a>
-    <a href="/images/report2.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/report2.png" alt="MedBot form" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
-    </a>
-    <a href="/images/sheet1.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/sheet1.png" alt="MedBot Spreadsheet of reports" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
-    </a>
-        <a href="/images/sheet2.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/sheet2.png" alt="MedBot spreadsheet of monthly leaderboard" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+<hr class="my-12 border-gray-200">
 
+<h3 class="text-xl font-semibold text-center">Interaction Flow</h3>
+
+<div class="mt-6 max-w-4xl mx-auto">
+  <a href="/images/medreports.png" class="glightbox" data-gallery="medbot-gallery">
+    <img src="/images/medreports.png"
+         alt="MedBot report command interaction"
+         class="w-full rounded shadow-lg cursor-pointer" />
+  </a>
+  <p class="text-sm text-gray-500 text-center mt-2">
+    Structured command flow guiding users through report submission with clear confirmation feedback.
+  </p>
+</div>
+
+<hr class="my-12 border-gray-200">
+
+<h3 class="text-xl font-semibold text-center">Interaction Flow</h3>
+
+<div class="mt-6 max-w-4xl mx-auto">
+  <a href="/images/medreports.png" class="glightbox" data-gallery="medbot-gallery">
+    <img src="/images/medreports.png"
+         alt="MedBot report command interaction"
+         class="w-full rounded shadow-lg cursor-pointer" />
+  </a>
+  <p class="text-sm text-gray-500 text-center mt-2">
+    Structured command flow guiding users through report submission with clear confirmation feedback.
+  </p>
+</div>
+
+<h3 class="mt-12 text-xl font-semibold text-center">Guided User Prompts</h3>
+
+<div class="grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto">
+
+  <div>
+    <a href="/images/report1.png" class="glightbox" data-gallery="medbot-gallery">
+      <img src="/images/report1.png"
+           alt="User submitting a report"
+           class="w-full rounded shadow-lg cursor-pointer" />
+    </a>
+    <p class="text-sm text-gray-500 text-center mt-2">
+      Structured input reduces ambiguity and minimizes user error.
+    </p>
   </div>
-</div>
+
+  <div>
+    <a href="/images/report2.png" class="glightbox" data-gallery="medbot-gallery">
+      <img src="/images/report2.png"
+           alt="Bot confirmation message"
+           class="w-full rounded shadow-lg cursor-pointer" />
+    </a>
+    <p class="text-sm text-gray-500 text-center mt-2">
+      Immediate feedback improves clarity and user confidence.
+    </p>
+  </div>
 
 </div>
+
