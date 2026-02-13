@@ -10,7 +10,7 @@ top_project = true
 
 [taxonomies]
 projects=["Personal", "User-Centered Design"]
-skills=["User-Centered Design", "Interaction Design", "Workflow Analysis", "Process Automation", "Information Architecture", "Usability Improvements", "Python Development", "Virtual Machines", "Prompt Engineering" "API Integration", "Testing & Iteration"]
+skills=["User-Centered Design", "Interaction Design", "Workflow Analysis", "Process Automation", "Information Architecture", "Usability Improvements", "Python Development", "Virtual Machines", "Prompt Engineering", "API Integration", "Testing & Iteration"]
 +++
 
 MedBot is a user-focused automation system designed to streamline activity reporting and tracking for a multi-user community. The project replaced a manual submission and tracking process with a structured interaction flow that improves clarity, reduces administrative overhead, and provides users with consistent feedback. The primary goal was to simplify reporting while increasing visibility into progress and performance.
