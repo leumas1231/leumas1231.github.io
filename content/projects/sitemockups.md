@@ -6,7 +6,7 @@ date = 2025-12-31
 [extra]
 date_start = 2022-09-01
 image = "wizlogo.png" 
-top_project = true
+top_project = false
 
 [taxonomies]
 projects=["Class"]

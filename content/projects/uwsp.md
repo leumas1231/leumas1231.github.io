@@ -5,7 +5,7 @@ date = 2025-07-01
 
 [extra]
 date_start = 2025-07-01
-image = "" # https://unsplash.com/de/fotos/-JdMihDkP-vc
+image = "uwsplogo.svg" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
