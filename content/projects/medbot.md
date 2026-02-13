@@ -75,22 +75,7 @@ I began by evaluating the existing manual reporting process to identify ineffici
 
 MedBot reinforced the importance of designing for clarity in text-based interfaces where visual cues are limited. I learned that thoughtful interaction design, structured feedback, and iterative refinement can significantly improve user confidence and reduce friction. This project strengthened my ability to balance technical implementation with user-centered workflow design.
 
-<hr class="my-12 border-gray-200">
-
-<h3 class="text-xl font-semibold text-center">Interaction Flow</h3>
-
-<div class="mt-6 max-w-4xl mx-auto">
-  <a href="/images/medreports.png" class="glightbox" data-gallery="medbot-gallery">
-    <img src="/images/medreports.png"
-         alt="MedBot report command interaction"
-         class="w-full rounded shadow-lg cursor-pointer" />
-  </a>
-  <p class="text-sm text-gray-500 text-center mt-2">
-    Structured command flow guiding users through report submission with clear confirmation feedback.
-  </p>
-</div>
-
-<hr class="my-12 border-gray-200">
+<<hr class="my-12 border-gray-200">
 
 <h3 class="text-xl font-semibold text-center">Interaction Flow</h3>
 
@@ -132,4 +117,33 @@ MedBot reinforced the importance of designing for clarity in text-based interfac
   </div>
 
 </div>
+
+<h3 class="mt-12 text-xl font-semibold text-center">Automated Data & Transparency</h3>
+
+<div class="grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto">
+
+  <div>
+    <a href="/images/sheet1.png" class="glightbox" data-gallery="medbot-gallery">
+      <img src="/images/sheet1.png"
+           alt="Google Sheets report log"
+           class="w-full rounded shadow-lg cursor-pointer" />
+    </a>
+    <p class="text-sm text-gray-500 text-center mt-2">
+      Centralized report logging eliminates manual data entry.
+    </p>
+  </div>
+
+  <div>
+    <a href="/images/sheet2.png" class="glightbox" data-gallery="medbot-gallery">
+      <img src="/images/sheet2.png"a
+           alt="Monthly leaderboard tracking"
+           class="w-full rounded shadow-lg cursor-pointer" />
+    </a>
+    <p class="text-sm text-gray-500 text-center mt-2">
+      Automated monthly aggregation increases transparency and motivation.
+    </p>
+  </div>
+
+</div>
+
 
