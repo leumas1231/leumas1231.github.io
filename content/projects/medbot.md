@@ -73,3 +73,25 @@ I began by evaluating the existing manual reporting process to identify ineffici
 ## Reflection
 
 MedBot reinforced the importance of designing for clarity in text-based interfaces where visual cues are limited. I learned that thoughtful interaction design, structured feedback, and iterative refinement can significantly improve user confidence and reduce friction. This project strengthened my ability to balance technical implementation with user-centered workflow design.
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
+  <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
+    <a href="/images/medreports.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/medreports.png" alt="MedBot Report Function" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+    <a href="/images/report1.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/report1.png" alt="MedBot inserting a job" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+    <a href="/images/report2.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/report2.png" alt="MedBot form" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+    <a href="/images/sheet1.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/sheet1.png" alt="MedBot Spreadsheet of reports" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+        <a href="/images/sheet2.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/sheet2.png" alt="MedBot spreadsheet of monthly leaderboard" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+
+  </div>
+</div>
+
+</div>
