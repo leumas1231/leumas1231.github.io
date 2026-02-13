@@ -10,7 +10,7 @@ top_project = true
 
 [taxonomies]
 projects=["Non-profit", "Internship", "UX Case Study", "User-Centered Design"]
-skills=["Consulting", "Project Management", "Graphic Design", "Basecamp", "Photo Editing" "User Research",
+skills=["Consulting", "Project Management", "Graphic Design", "Basecamp", "Photo Editing", "User Research",
 "Engagement Strategy",
 "Content Strategy",
 "Usability Improvements",
