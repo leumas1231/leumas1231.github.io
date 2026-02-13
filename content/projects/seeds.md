@@ -93,17 +93,37 @@ BizSquad - Fall 2024 Report Out
 
 This project reinforced how UX extends beyond interface design into engagement strategy and content architecture. I learned the importance of mapping user journeys across multiple channels and balancing stakeholder goals with user clarity. Working within time and platform constraints strengthened my ability to prioritize high-impact improvements and communicate strategic recommendations effectively.
 
-<div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
-  <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
-    <a href="/images/seedsmockup2.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/seedsmockup2.png" alt="Seed's Original Page Mockup" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
-    </a>
-    <a href="/images/seedsmockup.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/seedsmockup.png" alt="Seed's New Page Mockup" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
-    </a>
-    <a href="/images/seedspage.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/seedspage.png" alt="Seed's developed page" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
-    </a>
+<h3 class="mt-10 text-xl font-semibold text-center">Before & After Comparison</h3>
 
+<div class="grid md:grid-cols-2 gap-8 mt-6">
+
+  <div>
+    <p class="text-center font-medium mb-2">Original Page</p>
+    <a href="/images/seedsmockup2.png" class="glightbox" data-gallery="seeds-gallery">
+      <img src="/images/seedsmockup2.png"
+           alt="Original Seeds of Hope page"
+           class="w-full rounded shadow-lg cursor-pointer" />
+    </a>
   </div>
+
+  <div>
+    <p class="text-center font-medium mb-2">Redesigned Concept</p>
+    <a href="/images/seedsmockup.png" class="glightbox" data-gallery="seeds-gallery">
+      <img src="/images/seedsmockup.png"
+           alt="Redesigned Seeds of Hope page concept"
+           class="w-full rounded shadow-lg cursor-pointer" />
+    </a>
+  </div>
+
+</div>
+
+
+<h3 class="mt-10 text-xl font-semibold text-center">Implementation</h3>
+
+<div class="mt-6 max-w-4xl mx-auto">
+  <a href="/images/seedspage.png" class="glightbox" data-gallery="seeds-gallery">
+    <img src="/images/seedspage.png"
+         alt="Developed Seeds of Hope page"
+         class="w-full rounded shadow-lg cursor-pointer" />
+  </a>
 </div>
