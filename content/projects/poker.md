@@ -7,7 +7,7 @@ date = 2024-12-31
 date_start = 2024-09-01
 image = "poker.png" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = false
-
+weight = 11
 [taxonomies]
 projects=["Class"]
 skills=["Unity", "SignalR", "GIT", "Version Control", "Database Design", "MySQL", "C#"]
