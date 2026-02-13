@@ -20,7 +20,7 @@
         {# Get the projects section directly instead of looping taxonomy #}
         {% set projects_section = get_section(path="projects/_index.md", lang=lang) %}
 
-        {% for project_page in projects_section.pages | sort(attribute="date") | reverse %}
+        {% for project_page in projects_section.pages | sort(attribute="weight") %}
 
             {% if project_page.extra.top_project %}
                 {{ macros::project_tile(

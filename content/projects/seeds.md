@@ -7,6 +7,7 @@ date = 2024-12-31
 date_start = 2024-09-01
 image = "biz.png" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
+weight = 5
 
 [taxonomies]
 projects=["Non-profit", "Internship", "User-Centered Design"]

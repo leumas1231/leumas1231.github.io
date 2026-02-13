@@ -7,6 +7,7 @@ date = 2025-07-01
 date_start = 2025-07-01
 image = "uwsplogo.svg" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
+weight = 3
 
 [taxonomies]
 projects=["Current Position", "Responsive Design"]

@@ -7,6 +7,7 @@ date = 2025-11-14
 date_start = 2025-10-01
 image = "caseavatar.jpg" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
+weight = 1
 
 [taxonomies]
 projects=["Competition", "User-Centered Design"]

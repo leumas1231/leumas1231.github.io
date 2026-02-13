@@ -7,6 +7,7 @@ date = 2025-12-31
 date_start = 2020-09-01
 image = "dronetop.jpg" 
 top_project = true
+weight = 7
 
 [taxonomies]
 projects=["Drone Photography"]

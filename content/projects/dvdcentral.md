@@ -6,7 +6,8 @@ date = 2024-05-31
 [extra]
 date_start = 2023-08-01
 image = "dvd.png" # https://unsplash.com/de/fotos/-JdMihDkP-vc
-top_project = false
+top_project = true
+weight = 10
 
 [taxonomies]
 projects=["Class"]
