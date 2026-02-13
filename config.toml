@@ -39,7 +39,7 @@ links = [
 # notice = '<a href="https://www.winterstein.biz">Adrian Winterstein</a><br>Powered by <a href="https://getzola.org">Zola</a>, <a href="https://tailwindcss.com">TailwindCSS</a> & <a href="https://daisyui.com">DaisyUI</a>'
 
 [extra.index]
-slogan = "Software and Web Development Student"
+slogan = "Software and UX/Web Development Student"
 image = "portrait.jpeg"
 image_alt = "Samuel Jindra"
 
