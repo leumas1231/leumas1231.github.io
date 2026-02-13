@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Canva</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/canva/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/canva/atom.xml</id>
+    <entry xml:lang="en">
+        <title>UWSP Dining Website</title>
+        <published>2025-07-01T00:00:00+00:00</published>
+        <updated>2025-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/uwsp/"/>
+        <id>https://sjindra31.github.io/projects/uwsp/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/uwsp/">&lt;p&gt;As Web and Multimedia Coordinator for University Dining, I focus on improving usability, accessibility, and content clarity across a high-traffic campus website. The site serves students, faculty, and visitors who rely on quick access to menus, hours, and event information.&lt;&#x2F;p&gt;
+&lt;p&gt;My work centers on translating stakeholder requirements into user-friendly layouts while maintaining consistency across pages and improving accessibility standards.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.uwsp.edu&#x2F;dining&#x2F;university-dining-services&#x2F;&quot; target=&quot;_blank&quot;&gt;UWSP Dining Main Page&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Build, maintain, and optimize front-end website content within WordPress using HTML and CSS ensuring responsive, cross-browser, and cross-device compatibility.&lt;&#x2F;li&gt;
+&lt;li&gt;Improve site navigation, accessibility, and mobile responsiveness, enhancing usability for a diverse campus audience.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborate with marketing teams and campus partners in a team-based environment to identify improvements in UX.&lt;&#x2F;li&gt;
+&lt;li&gt;Develop and publish web pages and digital promotions while maintaining consistent UI patterns and branding standards.&lt;&#x2F;li&gt;
+&lt;li&gt;Continuously evaluate and refine interfaces to improve clarity, performance, and user experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Users needed quick access to dining hours, menus, and announcements&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Information was sometimes difficult to locate on mobile&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Navigation required multiple clicks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Content density reduced scanability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Accessibility considerations needed improvement&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The goal was to simplify navigation, improve readability, and ensure responsive behavior across devices.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;To improve usability, I evaluated navigation patterns and identified friction points within the existing layout. One major issue was excessive header links, which increased cognitive load and reduced clarity.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced header links from 15 to 6, consolidating related pages into structured sections&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborated with my supervisor to ensure alignment with UWSP’s branding and communication goals&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reorganized content hierarchy to prioritize high-traffic information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated mobile behavior and adjusted layout responsiveness&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Applied accessibility-aware practices, including improved heading structure, contrast considerations, and meaningful alt text&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Iteratively refined pages based on stakeholder feedback&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Improved scanability and reduced visual clutter&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Streamlined navigation for faster access to high-priority information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Enhanced mobile usability across key pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased consistency across the site’s layout patterns&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;Working on a live campus site reinforced the importance of balancing stakeholder requirements with user needs. I learned that small layout and hierarchy changes can significantly impact clarity and usability, particularly for mobile users.&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;uwspdining.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;uwspdining.png&quot; alt=&quot;UWSP Dining&#x27;s Webpage&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Process Automation</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/process-automation/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/process-automation/atom.xml</id>
+    <entry xml:lang="en">
+        <title>IT Consultant - Microsoft Access</title>
+        <published>2025-12-01T00:00:00+00:00</published>
+        <updated>2025-12-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/itconsult/"/>
+        <id>https://sjindra31.github.io/projects/itconsult/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/itconsult/">&lt;p&gt;As an independent IT consultant, I worked with a local organization to evaluate and improve usability within a legacy Microsoft Access application. My focus was on streamlining workflows, reducing manual effort, and enhancing clarity within an existing system without disrupting operational continuity. A primary objective was enabling the owner to easily generate meaningful reports to better understand and manage business processes.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Evaluated and improved user workflows within a legacy Microsoft Access application.&lt;&#x2F;li&gt;
+&lt;li&gt;Identified usability challenges and implemented interface and logic improvements using VBA.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborated with business stakeholders to understand user needs and translate them into system enhancements.&lt;&#x2F;li&gt;
+&lt;li&gt;Performed testing and validation to ensure changes were reliable and did not disrupt existing workflows.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;The organization relied on a legacy Microsoft Access application to manage internal workflows. Over time, the system became difficult to navigate and maintain due to:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Inconsistent form behavior&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Manual processes that increased user effort&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited feedback for user actions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Growing complexity in logic and reporting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Users needed a more streamlined, intuitive workflow without requiring a complete system overhaul.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;I began by analyzing the database structure, form layouts, and existing VBA logic to understand how users interacted with the system and where friction occurred. I also collaborated closely with the stakeholder to document requested changes and prioritize enhancements based on workflow impact.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mapped user workflows to identify bottlenecks and redundant manual steps&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified usability challenges in form design and interaction feedback&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented VBA enhancements to automate repetitive tasks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified form logic to create clearer, more predictable interactions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborated directly with stakeholders to translate operational needs into practical improvements&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Tested and validated changes to ensure reliability and minimize disruption&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;Working within a legacy system reinforced the importance of balancing user needs with technical constraints. I learned that meaningful UX improvements often come from careful workflow evaluation and incremental enhancements rather than rebuilding from scratch. This experience strengthened my ability to analyze user behavior, simplify complex processes, and deliver practical solutions within real-world limitations.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>MedBot - Workflow Automation System</title>
+        <published>2025-11-01T00:00:00+00:00</published>
+        <updated>2025-11-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/medbot/"/>
+        <id>https://sjindra31.github.io/projects/medbot/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/medbot/">&lt;p&gt;MedBot is a user-focused automation system designed to streamline activity reporting and tracking for a multi-user community. The project replaced a manual submission and tracking process with a structured interaction flow that improves clarity, reduces administrative overhead, and provides users with consistent feedback. The primary goal was to simplify reporting while increasing visibility into progress and performance.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and implemented a structured reporting workflow to replace a manual tracking process.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a clear command and feedback system to reduce user confusion and input errors.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated automated data collection with a centralized tracking system.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Maintained and iteratively refined the system based on real user feedback.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;The community relied on manual activity reporting and spreadsheet tracking, which resulted in:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Time-consuming administrative work&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Inconsistent data entry&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited transparency into individual progress&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased potential for reporting errors&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Users needed a simpler and more reliable way to submit activity reports and monitor their progress without increasing system complexity.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;I approached MedBot as both a workflow optimization and interaction design challenge.&lt;&#x2F;p&gt;
+&lt;p&gt;I began by evaluating the existing manual reporting process to identify inefficiencies and friction points. From there, I designed a structured command flow that minimized cognitive load and guided users through submissions with clear prompts and confirmation feedback.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mapped the manual reporting workflow to identify bottlenecks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Designed simplified input structures to reduce ambiguity&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented consistent confirmation and error messaging&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated data validation and centralized tracking&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Iteratively refined command flows based on user feedback&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Deployed and maintained the system within a hosted environment&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Replaced a fully manual reporting system with automated tracking&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Successfully processed 546+ activity submissions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Supported 70+ active users&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced administrative workload and reporting inconsistencies&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved transparency and clarity of user progress&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;MedBot reinforced the importance of designing for clarity in text-based interfaces where visual cues are limited. I learned that thoughtful interaction design, structured feedback, and iterative refinement can significantly improve user confidence and reduce friction. This project strengthened my ability to balance technical implementation with user-centered workflow design.&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;medreports.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;medreports.png&quot; alt=&quot;MedBot Report Function&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;report1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;report1.png&quot; alt=&quot;MedBot inserting a job&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;report2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;report2.png&quot; alt=&quot;MedBot form&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;sheet1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;sheet1.png&quot; alt=&quot;MedBot Spreadsheet of reports&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;sheet2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;sheet2.png&quot; alt=&quot;MedBot spreadsheet of monthly leaderboard&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+</feed>

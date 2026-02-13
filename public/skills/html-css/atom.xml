@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - HTML &amp; CSS</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/html-css/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/html-css/atom.xml</id>
+    <entry xml:lang="en">
+        <title>UWSP Dining Website</title>
+        <published>2025-07-01T00:00:00+00:00</published>
+        <updated>2025-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/uwsp/"/>
+        <id>https://sjindra31.github.io/projects/uwsp/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/uwsp/">&lt;p&gt;As Web and Multimedia Coordinator for University Dining, I focus on improving usability, accessibility, and content clarity across a high-traffic campus website. The site serves students, faculty, and visitors who rely on quick access to menus, hours, and event information.&lt;&#x2F;p&gt;
+&lt;p&gt;My work centers on translating stakeholder requirements into user-friendly layouts while maintaining consistency across pages and improving accessibility standards.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.uwsp.edu&#x2F;dining&#x2F;university-dining-services&#x2F;&quot; target=&quot;_blank&quot;&gt;UWSP Dining Main Page&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Build, maintain, and optimize front-end website content within WordPress using HTML and CSS ensuring responsive, cross-browser, and cross-device compatibility.&lt;&#x2F;li&gt;
+&lt;li&gt;Improve site navigation, accessibility, and mobile responsiveness, enhancing usability for a diverse campus audience.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborate with marketing teams and campus partners in a team-based environment to identify improvements in UX.&lt;&#x2F;li&gt;
+&lt;li&gt;Develop and publish web pages and digital promotions while maintaining consistent UI patterns and branding standards.&lt;&#x2F;li&gt;
+&lt;li&gt;Continuously evaluate and refine interfaces to improve clarity, performance, and user experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Users needed quick access to dining hours, menus, and announcements&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Information was sometimes difficult to locate on mobile&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Navigation required multiple clicks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Content density reduced scanability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Accessibility considerations needed improvement&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The goal was to simplify navigation, improve readability, and ensure responsive behavior across devices.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;To improve usability, I evaluated navigation patterns and identified friction points within the existing layout. One major issue was excessive header links, which increased cognitive load and reduced clarity.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced header links from 15 to 6, consolidating related pages into structured sections&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborated with my supervisor to ensure alignment with UWSP’s branding and communication goals&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reorganized content hierarchy to prioritize high-traffic information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated mobile behavior and adjusted layout responsiveness&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Applied accessibility-aware practices, including improved heading structure, contrast considerations, and meaningful alt text&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Iteratively refined pages based on stakeholder feedback&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Improved scanability and reduced visual clutter&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Streamlined navigation for faster access to high-priority information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Enhanced mobile usability across key pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased consistency across the site’s layout patterns&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;Working on a live campus site reinforced the importance of balancing stakeholder requirements with user needs. I learned that small layout and hierarchy changes can significantly impact clarity and usability, particularly for mobile users.&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;uwspdining.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;uwspdining.png&quot; alt=&quot;UWSP Dining&#x27;s Webpage&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>BizSquad - Fox Valley Trout Unlimited</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/trout/"/>
+        <id>https://sjindra31.github.io/projects/trout/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/trout/">&lt;p&gt;A UX-focused volunteer project to improve the usability, navigation, and accessibility of the Fox Valley Trout Unlimited website. The goal was to help visitors quickly find key information such as events, membership details, and conservation initiatives on both desktop and mobile devices.&lt;&#x2F;p&gt;
+&lt;p&gt;Fox Valley Trout Unlimited is an active chapter of
+Trout Unlimited located in the Fox Valley
+southwest of Green Bay Wisconsin.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;foxvalleytu.org&#x2F;&quot; target=&quot;_blank&quot;&gt;Trout Unlimited&#x27;s Main Page&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;li&gt;
+&lt;li&gt;Reorganized and restructured WordPress website to better align with organization’s goals, enhancing site navigation,
+user experience, and ensuring mobile responsiveness for better accessibility on all devices.&lt;&#x2F;li&gt;
+&lt;li&gt;Produced engaging video content to effectively communicate organization&#x27;s mission and events.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Facebook feed into website to streamline event promotion, leading to more efficient event management
+and improved participation from members.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked closely with organization leaders ensuring digital strategies were in line with their vision, creating a more
+unified and effective online presence.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Users struggled to find priority content due to inconsistent layout, overwhelming navigation choices, and unclear content hierarchy. This created confusion around tasks like finding upcoming events, joining the organization, or learning about local initiatives.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated existing site structure to understand common navigation paths&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted informal stakeholder interviews to define user priorities&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Mapped user task flows to identify friction points&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted informal usability testing by walking through common user tasks and gathering stakeholder feedback to identify navigation friction, unclear content hierarchy, and areas of cognitive overload.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified navigation by reducing clutter and prioritizing commonly accessed sections&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reorganized content hierarchy to highlight events and membership information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Tested layout responsiveness across mobile and tablet devices&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;design-decisions&quot;&gt;Design Decisions&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Consolidated navigation items into clearer, task-centered categories&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Emphasized key calls to action such as “Upcoming Events” and “Get Involved”&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved spacing and typography for better scanability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted layouts for consistent behavior between desktop and mobile views&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Applied accessibility-aware design practices such as clear headings and consistent labels&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;impact&quot;&gt;Impact&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Navigation became easier to follow, reducing cognitive load&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Key content (events, membership) became more prominent and easier to access&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Site visuals and layout felt more consistent and cohesive&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Stakeholders reported improved clarity and reduced visitor confusion&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Mobile usability increased through responsive adjustments&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This project reinforced the value of user-centered design and thoughtful information architecture. I learned how subtle adjustments to layout and navigation can significantly improve usability—especially for diverse audiences accessing the site on multiple devices.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

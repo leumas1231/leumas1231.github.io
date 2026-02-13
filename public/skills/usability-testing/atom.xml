@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Usability Testing</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/usability-testing/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-14T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/usability-testing/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Case In Point - Noble Community Clinics</title>
+        <published>2025-11-14T00:00:00+00:00</published>
+        <updated>2025-11-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/caseinpoint/"/>
+        <id>https://sjindra31.github.io/projects/caseinpoint/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/caseinpoint/">&lt;p&gt;As part of UW–Stevens Point’s Case In Point business competition, my team developed a UX-focused strategy to help Noble Community Clinics attract and retain dental professionals in rural communities. We applied user research, competitive analysis, usability testing, and wireframing to redesign Noble’s careers experience. Our solution earned first place in the competition.&lt;&#x2F;p&gt;
+&lt;p&gt;You can view our mockup here!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;xd.adobe.com&#x2F;view&#x2F;6635e050-2046-43cb-b433-4d6aca878443-3366&#x2F;?fullscreen&quot; target=&quot;_blank&quot;&gt;Noble Community Clinics - Career Page Mockup&lt;&#x2F;a&gt;
+&lt;br&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;blog.uwsp.edu&#x2F;cps&#x2F;2025&#x2F;11&#x2F;14&#x2F;students-deliver-business-solutions-for-noble-community-clinics-at-case-in-point&#x2F;&quot; target=&quot;_blank&quot;&gt;Case In Point Article&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Noble Community Clinics faced challenges attracting dental professionals to rural areas. Through initial stakeholder meetings, we identified that:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The careers page lacked strong employee-focused messaging&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The website emphasized patient information over employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The brand did not clearly communicate workplace culture&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Rural relocation concerns (community, family, belonging) were not addressed&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal was to redesign the careers experience to make potential employees feel welcomed and connected before they even relocated.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;Research &amp;amp; Stakeholder Interviews&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Met with the Noble leadership team to gather goals and challenges&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified key priorities: culture, mission, employee relationships, social media presence&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Shifted perspective from a client-focused site to a people-focused recruitment strategy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Competitive Analysis&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated competitor career pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified strengths such as community storytelling, culture highlights, and clear calls to action&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Noted gaps in Noble’s presentation compared to certified employers&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Usability Testing&lt;&#x2F;p&gt;
+&lt;p&gt;Conducted usability testing with participants across multiple age groups and professional backgrounds:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;25-year-old shift lead&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;60-year-old IT systems administrator&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;20-year-old college student&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Key findings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Users were unsure what type of clinic Noble was&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The work environment felt unclear&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Career growth information was limited&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The page felt informational but not inviting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Wireframing &amp;amp; Design (Adobe XD)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a redesigned careers page mockup&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritized culture, growth, and community integration&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified layout and clarified information hierarchy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighted social media presence and employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated community partnerships and relocation support information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Delivered a complete UX redesign proposal&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented strategic implementation plan&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed social media and certification strategy to improve employer branding&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Earned first place in the Case In Point competition&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This experience strengthened my ability to approach UX from both a user and strategic perspective. I learned how recruitment experiences differ from traditional consumer-facing UX and how storytelling, community integration, and clear messaging influence decision-making. Collaborating in a multidisciplinary team environment reinforced the importance of research, iteration, and alignment with stakeholder goals.&lt;&#x2F;p&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;&quot;&gt;
+  &lt;iframe 
+    src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LOJtzPyL5Rk&quot;
+    frameborder=&quot;0&quot;
+    allowfullscreen
+    style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot;&gt;
+  &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; alt=&quot;Noble Wireframe&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Case In Point - Noble Community Clinics</title>
+        <published>2025-11-14T00:00:00+00:00</published>
+        <updated>2025-11-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/caseinpoint/"/>
+        <id>https://sjindra31.github.io/projects/caseinpoint/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/caseinpoint/">&lt;p&gt;As part of UW–Stevens Point’s Case In Point business competition, my team developed a UX-focused strategy to help Noble Community Clinics attract and retain dental professionals in rural communities. We applied user research, competitive analysis, usability testing, and wireframing to redesign Noble’s careers experience. Our solution earned first place in the competition.&lt;&#x2F;p&gt;
+&lt;p&gt;You can view our mockup here!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;xd.adobe.com&#x2F;view&#x2F;6635e050-2046-43cb-b433-4d6aca878443-3366&#x2F;?fullscreen&quot; target=&quot;_blank&quot;&gt;Noble Community Clinics - Career Page Mockup&lt;&#x2F;a&gt;
+&lt;br&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;blog.uwsp.edu&#x2F;cps&#x2F;2025&#x2F;11&#x2F;14&#x2F;students-deliver-business-solutions-for-noble-community-clinics-at-case-in-point&#x2F;&quot; target=&quot;_blank&quot;&gt;Case In Point Article&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Noble Community Clinics faced challenges attracting dental professionals to rural areas. Through initial stakeholder meetings, we identified that:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The careers page lacked strong employee-focused messaging&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The website emphasized patient information over employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The brand did not clearly communicate workplace culture&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Rural relocation concerns (community, family, belonging) were not addressed&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal was to redesign the careers experience to make potential employees feel welcomed and connected before they even relocated.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;Research &amp;amp; Stakeholder Interviews&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Met with the Noble leadership team to gather goals and challenges&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified key priorities: culture, mission, employee relationships, social media presence&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Shifted perspective from a client-focused site to a people-focused recruitment strategy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Competitive Analysis&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated competitor career pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified strengths such as community storytelling, culture highlights, and clear calls to action&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Noted gaps in Noble’s presentation compared to certified employers&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Usability Testing&lt;&#x2F;p&gt;
+&lt;p&gt;Conducted usability testing with participants across multiple age groups and professional backgrounds:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;25-year-old shift lead&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;60-year-old IT systems administrator&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;20-year-old college student&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Key findings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Users were unsure what type of clinic Noble was&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The work environment felt unclear&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Career growth information was limited&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The page felt informational but not inviting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Wireframing &amp;amp; Design (Adobe XD)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a redesigned careers page mockup&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritized culture, growth, and community integration&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified layout and clarified information hierarchy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighted social media presence and employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated community partnerships and relocation support information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Delivered a complete UX redesign proposal&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented strategic implementation plan&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed social media and certification strategy to improve employer branding&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Earned first place in the Case In Point competition&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This experience strengthened my ability to approach UX from both a user and strategic perspective. I learned how recruitment experiences differ from traditional consumer-facing UX and how storytelling, community integration, and clear messaging influence decision-making. Collaborating in a multidisciplinary team environment reinforced the importance of research, iteration, and alignment with stakeholder goals.&lt;&#x2F;p&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;&quot;&gt;
+  &lt;iframe 
+    src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LOJtzPyL5Rk&quot;
+    frameborder=&quot;0&quot;
+    allowfullscreen
+    style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot;&gt;
+  &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; alt=&quot;Noble Wireframe&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>BizSquad - Fox Valley Trout Unlimited</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/trout/"/>
+        <id>https://sjindra31.github.io/projects/trout/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/trout/">&lt;p&gt;A UX-focused volunteer project to improve the usability, navigation, and accessibility of the Fox Valley Trout Unlimited website. The goal was to help visitors quickly find key information such as events, membership details, and conservation initiatives on both desktop and mobile devices.&lt;&#x2F;p&gt;
+&lt;p&gt;Fox Valley Trout Unlimited is an active chapter of
+Trout Unlimited located in the Fox Valley
+southwest of Green Bay Wisconsin.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;foxvalleytu.org&#x2F;&quot; target=&quot;_blank&quot;&gt;Trout Unlimited&#x27;s Main Page&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;li&gt;
+&lt;li&gt;Reorganized and restructured WordPress website to better align with organization’s goals, enhancing site navigation,
+user experience, and ensuring mobile responsiveness for better accessibility on all devices.&lt;&#x2F;li&gt;
+&lt;li&gt;Produced engaging video content to effectively communicate organization&#x27;s mission and events.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Facebook feed into website to streamline event promotion, leading to more efficient event management
+and improved participation from members.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked closely with organization leaders ensuring digital strategies were in line with their vision, creating a more
+unified and effective online presence.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Users struggled to find priority content due to inconsistent layout, overwhelming navigation choices, and unclear content hierarchy. This created confusion around tasks like finding upcoming events, joining the organization, or learning about local initiatives.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated existing site structure to understand common navigation paths&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted informal stakeholder interviews to define user priorities&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Mapped user task flows to identify friction points&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted informal usability testing by walking through common user tasks and gathering stakeholder feedback to identify navigation friction, unclear content hierarchy, and areas of cognitive overload.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified navigation by reducing clutter and prioritizing commonly accessed sections&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reorganized content hierarchy to highlight events and membership information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Tested layout responsiveness across mobile and tablet devices&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;design-decisions&quot;&gt;Design Decisions&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Consolidated navigation items into clearer, task-centered categories&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Emphasized key calls to action such as “Upcoming Events” and “Get Involved”&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved spacing and typography for better scanability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted layouts for consistent behavior between desktop and mobile views&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Applied accessibility-aware design practices such as clear headings and consistent labels&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;impact&quot;&gt;Impact&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Navigation became easier to follow, reducing cognitive load&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Key content (events, membership) became more prominent and easier to access&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Site visuals and layout felt more consistent and cohesive&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Stakeholders reported improved clarity and reduced visitor confusion&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Mobile usability increased through responsive adjustments&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This project reinforced the value of user-centered design and thoughtful information architecture. I learned how subtle adjustments to layout and navigation can significantly improve usability—especially for diverse audiences accessing the site on multiple devices.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

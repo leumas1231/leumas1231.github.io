@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Teamwork</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/teamwork/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-14T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/teamwork/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Case In Point - Noble Community Clinics</title>
+        <published>2025-11-14T00:00:00+00:00</published>
+        <updated>2025-11-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/caseinpoint/"/>
+        <id>https://sjindra31.github.io/projects/caseinpoint/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/caseinpoint/">&lt;p&gt;As part of UW–Stevens Point’s Case In Point business competition, my team developed a UX-focused strategy to help Noble Community Clinics attract and retain dental professionals in rural communities. We applied user research, competitive analysis, usability testing, and wireframing to redesign Noble’s careers experience. Our solution earned first place in the competition.&lt;&#x2F;p&gt;
+&lt;p&gt;You can view our mockup here!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;xd.adobe.com&#x2F;view&#x2F;6635e050-2046-43cb-b433-4d6aca878443-3366&#x2F;?fullscreen&quot; target=&quot;_blank&quot;&gt;Noble Community Clinics - Career Page Mockup&lt;&#x2F;a&gt;
+&lt;br&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;blog.uwsp.edu&#x2F;cps&#x2F;2025&#x2F;11&#x2F;14&#x2F;students-deliver-business-solutions-for-noble-community-clinics-at-case-in-point&#x2F;&quot; target=&quot;_blank&quot;&gt;Case In Point Article&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Noble Community Clinics faced challenges attracting dental professionals to rural areas. Through initial stakeholder meetings, we identified that:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The careers page lacked strong employee-focused messaging&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The website emphasized patient information over employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The brand did not clearly communicate workplace culture&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Rural relocation concerns (community, family, belonging) were not addressed&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal was to redesign the careers experience to make potential employees feel welcomed and connected before they even relocated.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;Research &amp;amp; Stakeholder Interviews&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Met with the Noble leadership team to gather goals and challenges&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified key priorities: culture, mission, employee relationships, social media presence&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Shifted perspective from a client-focused site to a people-focused recruitment strategy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Competitive Analysis&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated competitor career pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified strengths such as community storytelling, culture highlights, and clear calls to action&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Noted gaps in Noble’s presentation compared to certified employers&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Usability Testing&lt;&#x2F;p&gt;
+&lt;p&gt;Conducted usability testing with participants across multiple age groups and professional backgrounds:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;25-year-old shift lead&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;60-year-old IT systems administrator&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;20-year-old college student&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Key findings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Users were unsure what type of clinic Noble was&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The work environment felt unclear&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Career growth information was limited&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The page felt informational but not inviting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Wireframing &amp;amp; Design (Adobe XD)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a redesigned careers page mockup&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritized culture, growth, and community integration&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified layout and clarified information hierarchy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighted social media presence and employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated community partnerships and relocation support information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Delivered a complete UX redesign proposal&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented strategic implementation plan&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed social media and certification strategy to improve employer branding&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Earned first place in the Case In Point competition&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This experience strengthened my ability to approach UX from both a user and strategic perspective. I learned how recruitment experiences differ from traditional consumer-facing UX and how storytelling, community integration, and clear messaging influence decision-making. Collaborating in a multidisciplinary team environment reinforced the importance of research, iteration, and alignment with stakeholder goals.&lt;&#x2F;p&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;&quot;&gt;
+  &lt;iframe 
+    src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LOJtzPyL5Rk&quot;
+    frameborder=&quot;0&quot;
+    allowfullscreen
+    style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot;&gt;
+  &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; alt=&quot;Noble Wireframe&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>UWSP Dining Website</title>
+        <published>2025-07-01T00:00:00+00:00</published>
+        <updated>2025-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/uwsp/"/>
+        <id>https://sjindra31.github.io/projects/uwsp/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/uwsp/">&lt;p&gt;As Web and Multimedia Coordinator for University Dining, I focus on improving usability, accessibility, and content clarity across a high-traffic campus website. The site serves students, faculty, and visitors who rely on quick access to menus, hours, and event information.&lt;&#x2F;p&gt;
+&lt;p&gt;My work centers on translating stakeholder requirements into user-friendly layouts while maintaining consistency across pages and improving accessibility standards.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.uwsp.edu&#x2F;dining&#x2F;university-dining-services&#x2F;&quot; target=&quot;_blank&quot;&gt;UWSP Dining Main Page&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Build, maintain, and optimize front-end website content within WordPress using HTML and CSS ensuring responsive, cross-browser, and cross-device compatibility.&lt;&#x2F;li&gt;
+&lt;li&gt;Improve site navigation, accessibility, and mobile responsiveness, enhancing usability for a diverse campus audience.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborate with marketing teams and campus partners in a team-based environment to identify improvements in UX.&lt;&#x2F;li&gt;
+&lt;li&gt;Develop and publish web pages and digital promotions while maintaining consistent UI patterns and branding standards.&lt;&#x2F;li&gt;
+&lt;li&gt;Continuously evaluate and refine interfaces to improve clarity, performance, and user experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Users needed quick access to dining hours, menus, and announcements&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Information was sometimes difficult to locate on mobile&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Navigation required multiple clicks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Content density reduced scanability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Accessibility considerations needed improvement&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The goal was to simplify navigation, improve readability, and ensure responsive behavior across devices.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;To improve usability, I evaluated navigation patterns and identified friction points within the existing layout. One major issue was excessive header links, which increased cognitive load and reduced clarity.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced header links from 15 to 6, consolidating related pages into structured sections&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborated with my supervisor to ensure alignment with UWSP’s branding and communication goals&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reorganized content hierarchy to prioritize high-traffic information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated mobile behavior and adjusted layout responsiveness&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Applied accessibility-aware practices, including improved heading structure, contrast considerations, and meaningful alt text&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Iteratively refined pages based on stakeholder feedback&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Improved scanability and reduced visual clutter&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Streamlined navigation for faster access to high-priority information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Enhanced mobile usability across key pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased consistency across the site’s layout patterns&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;Working on a live campus site reinforced the importance of balancing stakeholder requirements with user needs. I learned that small layout and hierarchy changes can significantly impact clarity and usability, particularly for mobile users.&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;uwspdining.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;uwspdining.png&quot; alt=&quot;UWSP Dining&#x27;s Webpage&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+</feed>
