@@ -1,6 +1,6 @@
 +++
 title = "BizSquad - Fox Valley Trout Unlimited"
-description = "Multidisciplinary team of instructor-nominated students providing customized business solutions to non-profit Fox Valley Trout Unlimited"
+description = "UX & Engagement Strategy | Fox Valley Technical College"
 date = 2024-12-31
 
 [extra]
@@ -26,7 +26,7 @@ Fox Valley Trout Unlimited is an active chapter of
 Trout Unlimited located in the Fox Valley
 southwest of Green Bay Wisconsin.
 
-https://foxvalleytu.org/
+<a href="https://foxvalleytu.org/" target="_blank">Trout Unlimited's Main Page</a>
 
 ## Responsibilities
 
@@ -88,3 +88,17 @@ Users struggled to find priority content due to inconsistent layout, overwhelmin
 
 This project reinforced the value of user-centered design and thoughtful information architecture. I learned how subtle adjustments to layout and navigation can significantly improve usability—especially for diverse audiences accessing the site on multiple devices.
 
+<div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
+  <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
+    <a href="/images/seedsmockup2.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/seedsmockup2.png" alt="Seed's Original Page Mockup" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+    <a href="/images/seedsmockup.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/seedsmockup.png" alt="Seed's New Page Mockup" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+    <a href="/images/seedspage.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/seedspage.png" alt="Seed's developed page" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+
+  </div>
+</div>

@@ -1,6 +1,6 @@
 +++
 title = "BizSquad - Seeds of Hope"
-description = "Multidisciplinary team of instructor-nominated students providing customized business solutions to non-profit Seeds of Hope"
+description = "UX & Engagement Strategy | Fox Valley Technical College"
 date = 2024-12-31
 
 [extra]
@@ -9,11 +9,20 @@ image = "biz.png" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
-projects=["Non-profit", "Internship"]
-skills=["Consulting", "Project Management", "Graphic Design","Basecamp", "Photo Editing"]
+projects=["Non-profit", "Internship", "UX Case Study", "User-Centered Design"]
+skills=["Consulting", "Project Management", "Graphic Design", "Basecamp", "Photo Editing" "User Research",
+"Engagement Strategy",
+"Content Strategy",
+"Usability Improvements",
+"Stakeholder Collaboration",
+"Wireframing",
+"Roadmapping",]
 +++
 
-The Seeds of Hope Financial Assistance Fund was established to support financial needs of current Fox Valley Tech students. The fund, which is managed by the FVTC Foundation, is designed to assist students with a financial shortfall to pay for educational or personal expenses.
+As part of BizSquad, a multidisciplinary consulting team at Fox Valley Technical College, I contributed to a UX and engagement strategy for Seeds of Hope, a financial assistance fund supporting students. The goal was to improve awareness, clarify the application process, and increase engagement across students, donors, and referrals.
+
+<a href="https://www.fvtc.edu/student-services/basic-needs-resources/financial-challenges/seeds-of-hope" target="_blank">Seeds of Hope Main Page</a>
+
 
 ## Responsibilities
 
@@ -22,3 +31,64 @@ The Seeds of Hope Financial Assistance Fund was established to support financial
 - Developed a strategic content outline to expand the organization's outreach efforts, increasing engagement with key audiences.
 
 - Partnered with organization leaders to ensure website redesign aligned with their goals, resulting in a more effective communication platform.
+
+## Problem
+
+Seeds of Hope faced challenges engaging students, donors, and referral sources. Through stakeholder discussions and engagement analysis, we identified:
+
+- Limited awareness of the organization’s mission
+
+- Confusion around the application process
+
+- Inconsistent visibility across engagement channels
+
+- Lack of storytelling to connect emotionally with potential donors
+
+- The objective was to improve clarity, strengthen messaging, and design a more engaging digital presence.
+
+# Process & Impact
+
+Engagement Channel Analysis
+
+- Mapped how students, donors, and referrals discovered Seeds of Hope
+
+- Identified gaps between awareness and action
+
+- Created engagement charts to visualize touchpoints
+
+Information Architecture & Content Strategy
+
+- Developed a website blueprint to clarify content structure
+
+- Proposed a new storytelling-focused page to highlight the organization’s impact
+
+- Simplified the application explanation to reduce confusion
+
+- Outlined roadmap for improving engagement across channels
+
+Implementation Support
+
+- Submitted change requests to improve clarity on the existing page
+
+- Designed a new page concept focused on mission and story
+
+- Collaborated with leadership and marketing stakeholders to align UX improvements with organizational goals
+
+# Results
+
+- Delivered a formal engagement and UX strategy report
+
+- Created roadmap prioritizing high-impact improvements
+
+- Improved clarity of application process
+
+- Strengthened alignment between mission messaging and digital experience
+
+- Contributed approximately 55 hours of project management and 50 hours of web design and analysis 
+
+BizSquad - Fall 2024 Report Out
+
+## Reflection
+
+This project reinforced how UX extends beyond interface design into engagement strategy and content architecture. I learned the importance of mapping user journeys across multiple channels and balancing stakeholder goals with user clarity. Working within time and platform constraints strengthened my ability to prioritize high-impact improvements and communicate strategic recommendations effectively.
+

@@ -25,7 +25,7 @@ As part of UW–Stevens Point’s Case In Point business competition, my team de
 
 
 You can view our mockup here!
-caseavatar
+
 <a href="https://xd.adobe.com/view/6635e050-2046-43cb-b433-4d6aca878443-3366/?fullscreen" target="_blank">Noble Community Clinics - Career Page Mockup</a>
 <a href="https://blog.uwsp.edu/cps/2025/11/14/students-deliver-business-solutions-for-noble-community-clinics-at-case-in-point/" target="_blank">Case In Point Article</a>
 

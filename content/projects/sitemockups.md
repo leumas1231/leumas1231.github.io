@@ -29,7 +29,7 @@ his gallery showcases website design mockups and interface layouts created using
 <div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
   <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
     <a href="/images/imain.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/imain.png" alt="Indian food image 1 class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+      <img src="/images/imain.png" alt="Indian food image 1" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
     <a href="/images/imenu.png" class="glightbox" data-gallery="drone-gallery">
       <img src="/images/imenu.png" alt="Indian food image 2" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />

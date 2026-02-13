@@ -18,7 +18,8 @@ As Web and Multimedia Coordinator for University Dining, I focus on improving us
 
 My work centers on translating stakeholder requirements into user-friendly layouts while maintaining consistency across pages and improving accessibility standards.
 
-https://www.uwsp.edu/dining/university-dining-services/
+<a href="https://www.uwsp.edu/dining/university-dining-services/" target="_blank">UWSP Dining Main Page</a>
+
 
 ## Responsibilities
 
