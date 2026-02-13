@@ -77,7 +77,6 @@ MedBot reinforced the importance of designing for clarity in text-based interfac
 <hr class="my-12 border-gray-200">
 
 <h3 class="text-xl font-semibold text-center">Interaction Flow</h3>
-
 <div class="mt-6 mx-auto">
   <a href="/images/medreports.png" class="glightbox" data-gallery="medbot-gallery">
     <img src="/images/medreports.png"
