@@ -16,7 +16,6 @@ skills=["User-Centered Design", "Interaction Design", "Workflow Analysis", "Proc
 
 MedBot is a user-focused automation system designed to streamline activity reporting and tracking for a multi-user community. The project replaced a manual submission and tracking process with a structured interaction flow that improves clarity, reduces administrative overhead, and provides users with consistent feedback. The primary goal was to simplify reporting while increasing visibility into progress and performance.
 
-
 ## Responsibilities
 
 - Designed and implemented a structured reporting workflow to replace a manual tracking process.
