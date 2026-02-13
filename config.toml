@@ -32,7 +32,7 @@ daisyui_theme_dark = "dark"
 links = [
     { url = "projects", i18n_key = "projects" },
     { url = "skills", i18n_key = "skills" },
-    { url = "blog", i18n_key = "blog" },
+    # { url = "blog", i18n_key = "blog" },
 ]
 
 # [extra.footer]
