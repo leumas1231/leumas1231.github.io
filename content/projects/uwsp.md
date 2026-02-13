@@ -9,7 +9,7 @@ image = "" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
-projects=["Current Position", "Websites", "Responsive Design"]
+projects=["Current Position", "Responsive Design"]
 skills=["Teamwork", "Click Up", "WordPress", "Web Development", "Canva", "Videography", "Video Editing", "Photo Editing", "Collaboration", "User-Centered Design", "Responsive Design",
 "Accessibility", "HTML & CSS", "Content Strategy"]
 +++
