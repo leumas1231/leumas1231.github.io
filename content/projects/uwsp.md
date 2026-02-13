@@ -5,7 +5,7 @@ date = 2025-07-01
 
 [extra]
 date_start = 2025-07-01
-image = "fvtc.png" # https://unsplash.com/de/fotos/-JdMihDkP-vc
+image = "" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
@@ -76,7 +76,7 @@ Working on a live campus site reinforced the importance of balancing stakeholder
 <div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
   <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
     <a href="/images/uwspdining.png" class="glightbox" data-gallery="drone-gallery">
-      <img src="/images/uwspdining.png" alt="UWSP Dining's Webpage class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+      <img src="/images/uwspdining.png" alt="UWSP Dining's Webpage" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
     </a>
   </div>
 </div>
