@@ -125,5 +125,3 @@ This experience strengthened my ability to approach UX from both a user and stra
     </a>
   </div>
 </div>
-
-NobleWireFrame.png
