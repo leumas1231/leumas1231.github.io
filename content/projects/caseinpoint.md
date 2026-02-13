@@ -108,3 +108,19 @@ Wireframing & Design (Adobe XD)
 This experience strengthened my ability to approach UX from both a user and strategic perspective. I learned how recruitment experiences differ from traditional consumer-facing UX and how storytelling, community integration, and clear messaging influence decision-making. Collaborating in a multidisciplinary team environment reinforced the importance of research, iteration, and alignment with stakeholder goals.
 
 
+<div style="margin-top: 2rem;">
+  <video controls style="width: 100%; max-width: 700px; display: block; margin: 0 auto;">
+    <source src="/images/MockupVideo.mkv" type="video/mkv">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
+  <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
+    <a href="/images/NobleWireFrame.png" class="glightbox" data-gallery="drone-gallery">
+      <img src="/images/NobleWireFrame.png" alt="Noble Wireframe" class="w-full h-48 object-cover rounded shadow-md cursor-pointer" />
+    </a>
+  </div>
+</div>
+
+NobleWireFrame.png
