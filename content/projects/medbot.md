@@ -9,7 +9,7 @@ image = "" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
-projects=["Personal"]
+projects=["Personal", "User-Centered Design"]
 skills=["User-Centered Design", "Interaction Design", "Workflow Analysis", "Process Automation", "Information Architecture", "Usability Improvements", "Python Development", "Virtual Machines", "Prompt Engineering" "API Integration", "Testing & Iteration"]
 +++
 
