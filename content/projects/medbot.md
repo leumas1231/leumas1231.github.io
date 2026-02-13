@@ -79,11 +79,11 @@ MedBot reinforced the importance of designing for clarity in text-based interfac
 
 <h3 class="text-xl font-semibold text-center">Interaction Flow</h3>
 
-<div class="mt-6 max-w-4xl mx-auto">
+<div class="mt-6 mx-auto">
   <a href="/images/medreports.png" class="glightbox" data-gallery="medbot-gallery">
     <img src="/images/medreports.png"
          alt="MedBot report command interaction"
-         class="w-full rounded shadow-lg cursor-pointer" />
+         class="w-1/2 mx-auto rounded shadow-lg cursor-pointer" />
   </a>
   <p class="text-sm text-gray-500 text-center mt-2">
     Structured command flow guiding users through report submission with clear confirmation feedback.
