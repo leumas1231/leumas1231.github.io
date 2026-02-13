@@ -9,7 +9,7 @@ image = "biz.png" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
-projects=["Non-profit", "Internship", "UX Case Study", "User-Centered Design"]
+projects=["Non-profit", "Internship", "User-Centered Design"]
 skills=["Consulting", "Project Management", "Graphic Design", "Basecamp", "Photo Editing", "User Research",
 "Engagement Strategy",
 "Content Strategy",

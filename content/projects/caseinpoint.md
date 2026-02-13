@@ -9,7 +9,7 @@ image = "caseavatar.jpg" # https://unsplash.com/de/fotos/-JdMihDkP-vc
 top_project = true
 
 [taxonomies]
-projects=["Competition", "UX Case Study" "User-Centered Design"]
+projects=["Competition", "User-Centered Design"]
 skills=["User Research",
 "Competitive Analysis",
 "Usability Testing",
