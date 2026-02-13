@@ -110,9 +110,9 @@ This experience strengthened my ability to approach UX from both a user and stra
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
   <iframe 
-    src="youtube.com/watch?v=LOJtzPyL5Rk&feature=youtu.be" 
-    frameborder="0" 
-    allowfullscreen 
+    src="https://www.youtube.com/embed/LOJtzPyL5Rk"
+    frameborder="0"
+    allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
