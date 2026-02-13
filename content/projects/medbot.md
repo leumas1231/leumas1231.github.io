@@ -75,7 +75,7 @@ I began by evaluating the existing manual reporting process to identify ineffici
 
 MedBot reinforced the importance of designing for clarity in text-based interfaces where visual cues are limited. I learned that thoughtful interaction design, structured feedback, and iterative refinement can significantly improve user confidence and reduce friction. This project strengthened my ability to balance technical implementation with user-centered workflow design.
 
-<<hr class="my-12 border-gray-200">
+<hr class="my-12 border-gray-200">
 
 <h3 class="text-xl font-semibold text-center">Interaction Flow</h3>
 
@@ -135,7 +135,7 @@ MedBot reinforced the importance of designing for clarity in text-based interfac
 
   <div>
     <a href="/images/sheet2.png" class="glightbox" data-gallery="medbot-gallery">
-      <img src="/images/sheet2.png"a
+      <img src="/images/sheet2.png"
            alt="Monthly leaderboard tracking"
            class="w-full rounded shadow-lg cursor-pointer" />
     </a>
