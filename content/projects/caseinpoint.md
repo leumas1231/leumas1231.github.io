@@ -108,11 +108,13 @@ Wireframing & Design (Adobe XD)
 This experience strengthened my ability to approach UX from both a user and strategic perspective. I learned how recruitment experiences differ from traditional consumer-facing UX and how storytelling, community integration, and clear messaging influence decision-making. Collaborating in a multidisciplinary team environment reinforced the importance of research, iteration, and alignment with stakeholder goals.
 
 
-<div style="margin-top: 2rem;">
-  <video controls style="width: 100%; max-width: 700px; display: block; margin: 0 auto;">
-    <source src="/images/MockupVideo.mkv" type="video/mkv">
-    Your browser does not support the video tag.
-  </video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
+  <iframe 
+    src="youtube.com/watch?v=LOJtzPyL5Rk&feature=youtu.be" 
+    frameborder="0" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
 </div>
 
 <div style="width: 100%; max-width: 700px; margin: 0 auto;" class="px-4">
