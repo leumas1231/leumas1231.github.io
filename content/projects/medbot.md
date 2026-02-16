@@ -10,7 +10,7 @@ top_project = true
 weight = 6
 
 [taxonomies]
-projects=["Personal", "User-Centered Design"]
+projects=["User-Centered Design"]
 skills=["User-Centered Design", "Interaction Design", "Workflow Analysis", "Process Automation", "Information Architecture", "Usability Improvements", "Python Development", "Virtual Machines", "Prompt Engineering", "API Integration", "Testing & Iteration"]
 +++
 

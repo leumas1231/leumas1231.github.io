@@ -10,7 +10,7 @@ top_project = true
 weight = 3
 
 [taxonomies]
-projects=["Current Position", "Responsive Design"]
+projects=["Current Position"]
 skills=["Teamwork", "Click Up", "WordPress", "Web Development", "Canva", "Videography", "Video Editing", "Photo Editing", "Collaboration", "User-Centered Design", "Responsive Design",
 "Accessibility", "HTML & CSS", "Content Strategy"]
 +++

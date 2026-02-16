@@ -10,7 +10,7 @@ top_project = true
 weight = 4
 
 [taxonomies]
-projects=["Non-profit", "Internship", "User-Centered Design"]
+projects=["User-Centered Design"]
 skills=["Consulting", "Project Management", "WordPress", "Web Development", "Basecamp", "Videography", "Video Editing", "Photo Editing", "User-Centered Design",
 "Usability Testing",
 "Navigation Simplification",

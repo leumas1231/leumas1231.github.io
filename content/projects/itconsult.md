@@ -10,7 +10,7 @@ top_project = true
 weight = 2
 
 [taxonomies]
-projects=["Current Position", "User-Centered Design"]
+projects=["Current Position"]
 skills=["Workflow Analysis", "User-Centered Design", "Usability Improvements", "Interface Simplification", "Stakeholder Collaboration", "Videography", "VBA Development", "Legacy System Optimization", "Process Automation", "Testing & Validation"]
 +++
 

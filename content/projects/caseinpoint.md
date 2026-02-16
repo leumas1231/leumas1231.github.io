@@ -10,7 +10,7 @@ top_project = true
 weight = 1
 
 [taxonomies]
-projects=["Competition", "User-Centered Design"]
+projects=["User-Centered Design"]
 skills=["User Research",
 "Competitive Analysis",
 "Usability Testing",
