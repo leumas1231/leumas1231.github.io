@@ -39,4 +39,5 @@ title = "Samuel Jindra"
     </div>
   </div>
 <!-- </div> -->
+<a href="https://sjindra31.github.io/projects/" class="text-3xl font-medium text-primary hover:underline inline-block mt-2">View Projects →</a>
 
