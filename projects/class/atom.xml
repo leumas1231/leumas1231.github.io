@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Class</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/projects/class/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/projects/class/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Netflix Ratings App – User-Centered Design Project</title>
+        <published>2026-05-01T00:00:00+00:00</published>
+        <updated>2026-05-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/designclass/"/>
+        <id>https://sjindra31.github.io/projects/designclass/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/designclass/">&lt;p&gt;The Netflix Ratings App was a user-centered design project focused on improving how viewers interpret film content ratings. Traditional rating systems provide high-level labels (e.g., PG-13, R) but often lack detailed context about what actually occurs in a film. Our goal was to design a more transparent and informative rating experience that helps users make better viewing decisions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted user interviews to identify gaps in current rating systems&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Helped define and refine the “How Might We” problem statement&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Designed user flows for both viewer and critic roles&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed personas to guide design decisions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Created storyboards for primary and secondary users&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Contributed to paper and digital prototype iterations&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Incorporated usability feedback into revised interface designs&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Traditional film rating systems are generic and often fail to communicate meaningful details about content. Users expressed that while ratings provide a quick overview, they do not offer enough transparency about:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The context of inappropriate content&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Specific dialogue or actions within scenes&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;When certain content occurs (timestamps)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Who is involved in specific scenes&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This lack of clarity makes it difficult for viewers — especially families — to determine whether a film aligns with their preferences or values.&lt;&#x2F;p&gt;
+&lt;p&gt;So, how might we standardize a new rating system that incorporates detailed content information to give viewers a clearer understanding of what to expect in a film?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;research-insights&quot;&gt;Research &amp;amp; Insights&lt;&#x2F;h2&gt;
+&lt;p&gt;From our initial user interviews, we discovered:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ratings are useful for quick, at-a-glance decisions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Users want both summary ratings and detailed breakdowns&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Timestamped inappropriate content would significantly increase trust&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Specific descriptions (what was said&#x2F;done and between whom) matter&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Ratings strongly influence whether users invest time in watching a film&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;These insights guided our shift toward transparency, specificity, and structured filtering.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;process-design-evolution&quot;&gt;Process &amp;amp; Design Evolution&lt;&#x2F;h2&gt;
+&lt;br&gt;
+&lt;b&gt;User Flows&lt;&#x2F;b&gt;
+&lt;p&gt;We created user flows to visualize two key roles:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Primary User – Viewer: Browses ratings, reviews content warnings, filters timestamps&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Secondary User – Critic&#x2F;Contributor: Adds or edits detailed scene-based ratings&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Mapping these flows helped us define system structure and reduce friction points.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;b&gt;Personas&lt;&#x2F;b&gt;
+&lt;p&gt;We narrowed our scope around the viewer persona, since they are the primary decision-maker. Our personas clarified:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Motivations (safe viewing, time investment decisions)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Frustrations (vague rating categories)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Needs (clear, scannable, trustworthy detail)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;b&gt;Storyboarding&lt;&#x2F;b&gt;
+&lt;p&gt;We developed two storyboards:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Primary (Viewer): Shows navigation through film details, timestamps, and filters&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Secondary (Critic): Illustrates the process of creating or editing structured reviews&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;These helped validate task flows before prototyping.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;b&gt;Prototyping → Paper to Digital&lt;&#x2F;b&gt;
+&lt;p&gt;We began with paper prototypes to quickly test layout and interaction concepts.&lt;&#x2F;p&gt;
+&lt;p&gt;Key changes during iteration:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Combined two timestamp screens into one&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Added filters to improve usability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Moved the QR code to improve screen balance&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified page sections for clarity&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduced pop-ups for detailed scene information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritized speed and scannability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;User feedback directly influenced our digital prototype refinement, improving clarity and reducing cognitive load.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This project reinforced how powerful structured information can be in decision-making systems. By centering our design on real user frustrations, we moved beyond generic ratings and toward meaningful transparency.&lt;&#x2F;p&gt;
+&lt;p&gt;I learned the importance of:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designing for clarity and scannability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Using personas to narrow scope effectively&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Iterating from low-fidelity to digital prototypes&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Treating transparency as a UX feature&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This project strengthened my understanding of research-driven design and validated how structured interaction design can meaningfully improve user trust.&lt;&#x2F;p&gt;
+&lt;hr class=&quot;my-12 border-gray-200&quot;&gt;
+&lt;h3 class=&quot;text-xl font-semibold text-center&quot;&gt;User Flows&lt;&#x2F;h3&gt;
+&lt;div class=&quot;mt-6 mx-auto&quot;&gt;
+  &lt;a href=&quot;&#x2F;images&#x2F;userflow1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;userflow1.png&quot;
+         alt=&quot;User flow diagrams for viewer and critic roles&quot;
+         class=&quot;w-2&#x2F;3 mx-auto rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;userflow2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;userflow2.png&quot;
+         alt=&quot;User flow diagrams for viewer and critic roles&quot;
+         class=&quot;w-2&#x2F;3 mx-auto rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;a&gt;
+  &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+    Early user flow diagrams mapping both the Viewer and Critic interaction paths.
+  &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Personas &amp; Storyboards&lt;&#x2F;h3&gt;
+&lt;div class=&quot;grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto&quot;&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;persona.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;persona.png&quot;
+           alt=&quot;Primary viewer persona&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Primary persona focused on viewer decision-making and content transparency.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;storyboard1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;storyboard1.png&quot;
+           alt=&quot;Storyboard illustrating user journey&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Storyboards mapping the viewer’s navigation through ratings, timestamps, and filters.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Paper to Digital Prototypes&lt;&#x2F;h3&gt;
+&lt;div class=&quot;grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto&quot;&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;papertodigital1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;papertodigital1.png&quot;
+           alt=&quot;Paper prototype sketches&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Early paper prototypes used to validate layout, navigation, and content hierarchy.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;digital1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;digital1.png&quot;
+           alt=&quot;Digital prototype screen&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Refined digital prototype combining timestamp filtering, structured sections, and improved scannability.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Timestamp &amp; Filtering System&lt;&#x2F;h3&gt;
+&lt;div class=&quot;mt-6 mx-auto&quot;&gt;
+  &lt;a href=&quot;&#x2F;images&#x2F;digital2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;digital2.png&quot;
+         alt=&quot;Timestamp filtering interface&quot;
+         class=&quot;w-2&#x2F;3 mx-auto rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;a&gt;
+  &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+    Consolidated timestamp screen with filtering controls for clearer, faster content review.
+  &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Web Design Mockups</title>
+        <published>2025-12-31T00:00:00+00:00</published>
+        <updated>2025-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/sitemockups/"/>
+        <id>https://sjindra31.github.io/projects/sitemockups/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/sitemockups/">&lt;p&gt;his gallery showcases website design mockups and interface layouts created using a variety of tools for academic and professional use.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed web layout mockups for client and class-based projects.&lt;&#x2F;li&gt;
+&lt;li&gt;Applied brand consistency and accessibility standards to UI components.&lt;&#x2F;li&gt;
+&lt;li&gt;Used tools like Photoshop and Illustrator to create wireframes and high-fidelity visuals.&lt;&#x2F;li&gt;
+&lt;li&gt;Created responsive page concepts and marketing visuals for mock websites.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;gallery&quot;&gt;Gallery&lt;&#x2F;h2&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;imain.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;imain.png&quot; alt=&quot;Indian food image 1&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;imenu.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;imenu.png&quot; alt=&quot;Indian food image 2&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;icatering.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;icatering.png&quot; alt=&quot;Indian food image 3&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;homewire.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;homewire.png&quot; alt=&quot;Drone Image 4&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;lorimobile.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;lorimobile.png&quot; alt=&quot;Drone Image 5&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;pportfolio.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;pportfolio.png&quot; alt=&quot;Drone Image 6&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+     &lt;a href=&quot;&#x2F;images&#x2F;wizlogo.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;wizlogo.png&quot; alt=&quot;Drone Image 7&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Multiplayer Poker Game, Unity</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/poker/"/>
+        <id>https://sjindra31.github.io/projects/poker/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/poker/">&lt;p&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented a computer-controlled opponent with strategic logic to enhance single-player mode.&lt;&#x2F;li&gt;
+&lt;li&gt;Developed an account registration system with secure data storage, integrating a database to manage player profiles and game records.&lt;&#x2F;li&gt;
+&lt;li&gt;Applied technologies such as ASP.Net, MVC architecture, and Azure services to improve functionality and performance.&lt;&#x2F;li&gt;
+&lt;li&gt;Utilized Git for version control and project collaboration, ensuring efficient code management.&lt;&#x2F;li&gt;
+&lt;li&gt;Demonstrated problem-solving skills by debugging connection issues, improving game stability, and enhancing user experience.&lt;&#x2F;li&gt;
+&lt;li&gt;Successfully delivered a functional game that showcased technical skills and knowledge gained throughout the course.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>TravelPallete</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/travelpallete/"/>
+        <id>https://sjindra31.github.io/projects/travelpallete/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/travelpallete/">&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrated OpenStreetMap data and MapBox API to display local businesses, customizing the map with tailored icons and preferences specific to TravelPallete.&lt;&#x2F;li&gt;
+&lt;li&gt;Designed and refined the map interface to ensure a user-friendly and visually appealing experience.&lt;&#x2F;li&gt;
+&lt;li&gt;Contributed to database development, enabling user registration and the ability to save locations to personalized &quot;trip&quot; itineraries for enhanced trip planning.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked with technologies such as C#, Azure, SQL, CSS, HTML, and JavaScript to deliver a functional and engaging platform.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborated with a web designer to align the site&#x27;s theme and icons with the project&#x27;s vision, ensuring a cohesive user experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>DvDCentral</title>
+        <published>2024-05-31T00:00:00+00:00</published>
+        <updated>2024-05-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/dvdcentral/"/>
+        <id>https://sjindra31.github.io/projects/dvdcentral/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/dvdcentral/">&lt;p&gt;This project allowed me to apply and expand my technical skills in various key areas. It provided valuable experience in full-stack development, database integration, and cloud-based solutions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented Object-Oriented Programming (OOP) principles to create efficient, modular code.&lt;&#x2F;li&gt;
+&lt;li&gt;Utilized ASP.Net, MVC, and MVVM architectures to build a structured and maintainable web application.&lt;&#x2F;li&gt;
+&lt;li&gt;Managed version control using Git, ensuring smooth development and tracking of changes.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Microsoft Azure services, including DevOps, SQL Database, and API Keys, to enhance functionality and scalability.&lt;&#x2F;li&gt;
+&lt;li&gt;Developed and tested the project using the Visual Studio development environment, applying best practices to ensure code quality and performance.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

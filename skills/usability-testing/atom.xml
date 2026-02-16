@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Usability Testing</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/usability-testing/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/usability-testing/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Netflix Ratings App – User-Centered Design Project</title>
+        <published>2026-05-01T00:00:00+00:00</published>
+        <updated>2026-05-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/designclass/"/>
+        <id>https://sjindra31.github.io/projects/designclass/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/designclass/">&lt;p&gt;The Netflix Ratings App was a user-centered design project focused on improving how viewers interpret film content ratings. Traditional rating systems provide high-level labels (e.g., PG-13, R) but often lack detailed context about what actually occurs in a film. Our goal was to design a more transparent and informative rating experience that helps users make better viewing decisions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted user interviews to identify gaps in current rating systems&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Helped define and refine the “How Might We” problem statement&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Designed user flows for both viewer and critic roles&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed personas to guide design decisions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Created storyboards for primary and secondary users&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Contributed to paper and digital prototype iterations&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Incorporated usability feedback into revised interface designs&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Traditional film rating systems are generic and often fail to communicate meaningful details about content. Users expressed that while ratings provide a quick overview, they do not offer enough transparency about:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The context of inappropriate content&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Specific dialogue or actions within scenes&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;When certain content occurs (timestamps)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Who is involved in specific scenes&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This lack of clarity makes it difficult for viewers — especially families — to determine whether a film aligns with their preferences or values.&lt;&#x2F;p&gt;
+&lt;p&gt;So, how might we standardize a new rating system that incorporates detailed content information to give viewers a clearer understanding of what to expect in a film?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;research-insights&quot;&gt;Research &amp;amp; Insights&lt;&#x2F;h2&gt;
+&lt;p&gt;From our initial user interviews, we discovered:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ratings are useful for quick, at-a-glance decisions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Users want both summary ratings and detailed breakdowns&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Timestamped inappropriate content would significantly increase trust&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Specific descriptions (what was said&#x2F;done and between whom) matter&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Ratings strongly influence whether users invest time in watching a film&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;These insights guided our shift toward transparency, specificity, and structured filtering.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;process-design-evolution&quot;&gt;Process &amp;amp; Design Evolution&lt;&#x2F;h2&gt;
+&lt;br&gt;
+&lt;b&gt;User Flows&lt;&#x2F;b&gt;
+&lt;p&gt;We created user flows to visualize two key roles:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Primary User – Viewer: Browses ratings, reviews content warnings, filters timestamps&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Secondary User – Critic&#x2F;Contributor: Adds or edits detailed scene-based ratings&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Mapping these flows helped us define system structure and reduce friction points.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;b&gt;Personas&lt;&#x2F;b&gt;
+&lt;p&gt;We narrowed our scope around the viewer persona, since they are the primary decision-maker. Our personas clarified:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Motivations (safe viewing, time investment decisions)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Frustrations (vague rating categories)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Needs (clear, scannable, trustworthy detail)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;b&gt;Storyboarding&lt;&#x2F;b&gt;
+&lt;p&gt;We developed two storyboards:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Primary (Viewer): Shows navigation through film details, timestamps, and filters&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Secondary (Critic): Illustrates the process of creating or editing structured reviews&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;These helped validate task flows before prototyping.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;b&gt;Prototyping → Paper to Digital&lt;&#x2F;b&gt;
+&lt;p&gt;We began with paper prototypes to quickly test layout and interaction concepts.&lt;&#x2F;p&gt;
+&lt;p&gt;Key changes during iteration:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Combined two timestamp screens into one&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Added filters to improve usability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Moved the QR code to improve screen balance&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified page sections for clarity&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduced pop-ups for detailed scene information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritized speed and scannability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;User feedback directly influenced our digital prototype refinement, improving clarity and reducing cognitive load.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This project reinforced how powerful structured information can be in decision-making systems. By centering our design on real user frustrations, we moved beyond generic ratings and toward meaningful transparency.&lt;&#x2F;p&gt;
+&lt;p&gt;I learned the importance of:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designing for clarity and scannability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Using personas to narrow scope effectively&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Iterating from low-fidelity to digital prototypes&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Treating transparency as a UX feature&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This project strengthened my understanding of research-driven design and validated how structured interaction design can meaningfully improve user trust.&lt;&#x2F;p&gt;
+&lt;hr class=&quot;my-12 border-gray-200&quot;&gt;
+&lt;h3 class=&quot;text-xl font-semibold text-center&quot;&gt;User Flows&lt;&#x2F;h3&gt;
+&lt;div class=&quot;mt-6 mx-auto&quot;&gt;
+  &lt;a href=&quot;&#x2F;images&#x2F;userflow1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;userflow1.png&quot;
+         alt=&quot;User flow diagrams for viewer and critic roles&quot;
+         class=&quot;w-2&#x2F;3 mx-auto rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;a&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;userflow2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;userflow2.png&quot;
+         alt=&quot;User flow diagrams for viewer and critic roles&quot;
+         class=&quot;w-2&#x2F;3 mx-auto rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;a&gt;
+  &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+    Early user flow diagrams mapping both the Viewer and Critic interaction paths.
+  &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Personas &amp; Storyboards&lt;&#x2F;h3&gt;
+&lt;div class=&quot;grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto&quot;&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;persona.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;persona.png&quot;
+           alt=&quot;Primary viewer persona&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Primary persona focused on viewer decision-making and content transparency.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;storyboard1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;storyboard1.png&quot;
+           alt=&quot;Storyboard illustrating user journey&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Storyboards mapping the viewer’s navigation through ratings, timestamps, and filters.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Paper to Digital Prototypes&lt;&#x2F;h3&gt;
+&lt;div class=&quot;grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto&quot;&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;papertodigital1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;papertodigital1.png&quot;
+           alt=&quot;Paper prototype sketches&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Early paper prototypes used to validate layout, navigation, and content hierarchy.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;digital1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;digital1.png&quot;
+           alt=&quot;Digital prototype screen&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Refined digital prototype combining timestamp filtering, structured sections, and improved scannability.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Timestamp &amp; Filtering System&lt;&#x2F;h3&gt;
+&lt;div class=&quot;mt-6 mx-auto&quot;&gt;
+  &lt;a href=&quot;&#x2F;images&#x2F;digital2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;netflix-gallery&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;digital2.png&quot;
+         alt=&quot;Timestamp filtering interface&quot;
+         class=&quot;w-2&#x2F;3 mx-auto rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;a&gt;
+  &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+    Consolidated timestamp screen with filtering controls for clearer, faster content review.
+  &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Case In Point - Noble Community Clinics</title>
+        <published>2025-11-14T00:00:00+00:00</published>
+        <updated>2025-11-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/caseinpoint/"/>
+        <id>https://sjindra31.github.io/projects/caseinpoint/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/caseinpoint/">&lt;p&gt;As part of UW–Stevens Point’s Case In Point business competition, my team developed a UX-focused strategy to help Noble Community Clinics attract and retain dental professionals in rural communities. We applied user research, competitive analysis, usability testing, and wireframing to redesign Noble’s careers experience. Our solution earned first place in the competition.&lt;&#x2F;p&gt;
+&lt;p&gt;You can view our mockup here!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;xd.adobe.com&#x2F;view&#x2F;6635e050-2046-43cb-b433-4d6aca878443-3366&#x2F;?fullscreen&quot; target=&quot;_blank&quot;&gt;Noble Community Clinics - Career Page Mockup&lt;&#x2F;a&gt;
+&lt;br&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;blog.uwsp.edu&#x2F;cps&#x2F;2025&#x2F;11&#x2F;14&#x2F;students-deliver-business-solutions-for-noble-community-clinics-at-case-in-point&#x2F;&quot; target=&quot;_blank&quot;&gt;Case In Point Article&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Noble Community Clinics faced challenges attracting dental professionals to rural areas. Through initial stakeholder meetings, we identified that:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The careers page lacked strong employee-focused messaging&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The website emphasized patient information over employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The brand did not clearly communicate workplace culture&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Rural relocation concerns (community, family, belonging) were not addressed&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal was to redesign the careers experience to make potential employees feel welcomed and connected before they even relocated.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;Research &amp;amp; Stakeholder Interviews&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Met with the Noble leadership team to gather goals and challenges&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified key priorities: culture, mission, employee relationships, social media presence&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Shifted perspective from a client-focused site to a people-focused recruitment strategy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Competitive Analysis&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated competitor career pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified strengths such as community storytelling, culture highlights, and clear calls to action&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Noted gaps in Noble’s presentation compared to certified employers&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Usability Testing&lt;&#x2F;p&gt;
+&lt;p&gt;Conducted usability testing with participants across multiple age groups and professional backgrounds:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;25-year-old shift lead&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;60-year-old IT systems administrator&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;20-year-old college student&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Key findings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Users were unsure what type of clinic Noble was&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The work environment felt unclear&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Career growth information was limited&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The page felt informational but not inviting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Wireframing &amp;amp; Design (Adobe XD)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a redesigned careers page mockup&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritized culture, growth, and community integration&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified layout and clarified information hierarchy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighted social media presence and employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated community partnerships and relocation support information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Delivered a complete UX redesign proposal&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented strategic implementation plan&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed social media and certification strategy to improve employer branding&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Earned first place in the Case In Point competition&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This experience strengthened my ability to approach UX from both a user and strategic perspective. I learned how recruitment experiences differ from traditional consumer-facing UX and how storytelling, community integration, and clear messaging influence decision-making. Collaborating in a multidisciplinary team environment reinforced the importance of research, iteration, and alignment with stakeholder goals.&lt;&#x2F;p&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;&quot;&gt;
+  &lt;iframe 
+    src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LOJtzPyL5Rk&quot;
+    frameborder=&quot;0&quot;
+    allowfullscreen
+    style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot;&gt;
+  &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; alt=&quot;Noble Wireframe&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Case In Point - Noble Community Clinics</title>
+        <published>2025-11-14T00:00:00+00:00</published>
+        <updated>2025-11-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/caseinpoint/"/>
+        <id>https://sjindra31.github.io/projects/caseinpoint/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/caseinpoint/">&lt;p&gt;As part of UW–Stevens Point’s Case In Point business competition, my team developed a UX-focused strategy to help Noble Community Clinics attract and retain dental professionals in rural communities. We applied user research, competitive analysis, usability testing, and wireframing to redesign Noble’s careers experience. Our solution earned first place in the competition.&lt;&#x2F;p&gt;
+&lt;p&gt;You can view our mockup here!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;xd.adobe.com&#x2F;view&#x2F;6635e050-2046-43cb-b433-4d6aca878443-3366&#x2F;?fullscreen&quot; target=&quot;_blank&quot;&gt;Noble Community Clinics - Career Page Mockup&lt;&#x2F;a&gt;
+&lt;br&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;blog.uwsp.edu&#x2F;cps&#x2F;2025&#x2F;11&#x2F;14&#x2F;students-deliver-business-solutions-for-noble-community-clinics-at-case-in-point&#x2F;&quot; target=&quot;_blank&quot;&gt;Case In Point Article&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Noble Community Clinics faced challenges attracting dental professionals to rural areas. Through initial stakeholder meetings, we identified that:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The careers page lacked strong employee-focused messaging&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The website emphasized patient information over employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The brand did not clearly communicate workplace culture&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Rural relocation concerns (community, family, belonging) were not addressed&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal was to redesign the careers experience to make potential employees feel welcomed and connected before they even relocated.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;Research &amp;amp; Stakeholder Interviews&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Met with the Noble leadership team to gather goals and challenges&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified key priorities: culture, mission, employee relationships, social media presence&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Shifted perspective from a client-focused site to a people-focused recruitment strategy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Competitive Analysis&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated competitor career pages&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified strengths such as community storytelling, culture highlights, and clear calls to action&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Noted gaps in Noble’s presentation compared to certified employers&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Usability Testing&lt;&#x2F;p&gt;
+&lt;p&gt;Conducted usability testing with participants across multiple age groups and professional backgrounds:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;25-year-old shift lead&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;60-year-old IT systems administrator&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;20-year-old college student&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Key findings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Users were unsure what type of clinic Noble was&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The work environment felt unclear&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Career growth information was limited&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The page felt informational but not inviting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Wireframing &amp;amp; Design (Adobe XD)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a redesigned careers page mockup&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritized culture, growth, and community integration&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified layout and clarified information hierarchy&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighted social media presence and employee experience&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated community partnerships and relocation support information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Delivered a complete UX redesign proposal&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented strategic implementation plan&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed social media and certification strategy to improve employer branding&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Earned first place in the Case In Point competition&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This experience strengthened my ability to approach UX from both a user and strategic perspective. I learned how recruitment experiences differ from traditional consumer-facing UX and how storytelling, community integration, and clear messaging influence decision-making. Collaborating in a multidisciplinary team environment reinforced the importance of research, iteration, and alignment with stakeholder goals.&lt;&#x2F;p&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;&quot;&gt;
+  &lt;iframe 
+    src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LOJtzPyL5Rk&quot;
+    frameborder=&quot;0&quot;
+    allowfullscreen
+    style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot;&gt;
+  &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 100%; max-width: 700px; margin: 0 auto;&quot; class=&quot;px-4&quot;&gt;
+  &lt;div class=&quot;grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6&quot;&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;drone-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;NobleWireFrame.png&quot; alt=&quot;Noble Wireframe&quot; class=&quot;w-full h-48 object-cover rounded shadow-md cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>BizSquad - Fox Valley Trout Unlimited</title>
+        <published>2024-12-31T00:00:00+00:00</published>
+        <updated>2024-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/trout/"/>
+        <id>https://sjindra31.github.io/projects/trout/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/trout/">&lt;p&gt;A UX-focused volunteer project to improve the usability, navigation, and accessibility of the Fox Valley Trout Unlimited website. The goal was to help visitors quickly find key information such as events, membership details, and conservation initiatives on both desktop and mobile devices.&lt;&#x2F;p&gt;
+&lt;p&gt;Fox Valley Trout Unlimited is an active chapter of
+Trout Unlimited located in the Fox Valley
+southwest of Green Bay Wisconsin.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;foxvalleytu.org&#x2F;&quot; target=&quot;_blank&quot;&gt;Trout Unlimited&#x27;s Main Page&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a strategic approach to enhance the organization’s online presence, which improved engagement with
+members and increased visibility within the community.&lt;&#x2F;li&gt;
+&lt;li&gt;Reorganized and restructured WordPress website to better align with organization’s goals, enhancing site navigation,
+user experience, and ensuring mobile responsiveness for better accessibility on all devices.&lt;&#x2F;li&gt;
+&lt;li&gt;Produced engaging video content to effectively communicate organization&#x27;s mission and events.&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated Facebook feed into website to streamline event promotion, leading to more efficient event management
+and improved participation from members.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked closely with organization leaders ensuring digital strategies were in line with their vision, creating a more
+unified and effective online presence.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Users struggled to find priority content due to inconsistent layout, overwhelming navigation choices, and unclear content hierarchy. This created confusion around tasks like finding upcoming events, joining the organization, or learning about local initiatives.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluated existing site structure to understand common navigation paths&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted informal stakeholder interviews to define user priorities&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Mapped user task flows to identify friction points&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Conducted informal usability testing by walking through common user tasks and gathering stakeholder feedback to identify navigation friction, unclear content hierarchy, and areas of cognitive overload.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified navigation by reducing clutter and prioritizing commonly accessed sections&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reorganized content hierarchy to highlight events and membership information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Tested layout responsiveness across mobile and tablet devices&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;design-decisions&quot;&gt;Design Decisions&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Consolidated navigation items into clearer, task-centered categories&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Emphasized key calls to action such as “Upcoming Events” and “Get Involved”&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved spacing and typography for better scanability&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Adjusted layouts for consistent behavior between desktop and mobile views&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Applied accessibility-aware design practices such as clear headings and consistent labels&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;impact&quot;&gt;Impact&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Navigation became easier to follow, reducing cognitive load&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Key content (events, membership) became more prominent and easier to access&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Site visuals and layout felt more consistent and cohesive&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Stakeholders reported improved clarity and reduced visitor confusion&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Mobile usability increased through responsive adjustments&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;This project reinforced the value of user-centered design and thoughtful information architecture. I learned how subtle adjustments to layout and navigation can significantly improve usability—especially for diverse audiences accessing the site on multiple devices.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

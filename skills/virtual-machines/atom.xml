@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Virtual Machines</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/virtual-machines/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/virtual-machines/atom.xml</id>
+    <entry xml:lang="en">
+        <title>MedBot - Workflow Automation System</title>
+        <published>2025-11-01T00:00:00+00:00</published>
+        <updated>2025-11-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/medbot/"/>
+        <id>https://sjindra31.github.io/projects/medbot/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/medbot/">&lt;p&gt;MedBot is a user-focused automation system designed to streamline activity reporting and tracking for a multi-user community. The project replaced a manual submission and tracking process with a structured interaction flow that improves clarity, reduces administrative overhead, and provides users with consistent feedback. The primary goal was to simplify reporting while increasing visibility into progress and performance.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and implemented a structured reporting workflow to replace a manual tracking process.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a clear command and feedback system to reduce user confusion and input errors.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated automated data collection with a centralized tracking system.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Maintained and iteratively refined the system based on real user feedback.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;The community relied on manual activity reporting and spreadsheet tracking, which resulted in:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Time-consuming administrative work&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Inconsistent data entry&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited transparency into individual progress&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Increased potential for reporting errors&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Users needed a simpler and more reliable way to submit activity reports and monitor their progress without increasing system complexity.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;I approached MedBot as both a workflow optimization and interaction design challenge.&lt;&#x2F;p&gt;
+&lt;p&gt;I began by evaluating the existing manual reporting process to identify inefficiencies and friction points. From there, I designed a structured command flow that minimized cognitive load and guided users through submissions with clear prompts and confirmation feedback.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mapped the manual reporting workflow to identify bottlenecks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Designed simplified input structures to reduce ambiguity&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented consistent confirmation and error messaging&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated data validation and centralized tracking&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Iteratively refined command flows based on user feedback&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Deployed and maintained the system within a hosted environment&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Replaced a fully manual reporting system with automated tracking&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Successfully processed 546+ activity submissions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Supported 70+ active users&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced administrative workload and reporting inconsistencies&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved transparency and clarity of user progress&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;MedBot reinforced the importance of designing for clarity in text-based interfaces where visual cues are limited. I learned that thoughtful interaction design, structured feedback, and iterative refinement can significantly improve user confidence and reduce friction. This project strengthened my ability to balance technical implementation with user-centered workflow design.&lt;&#x2F;p&gt;
+&lt;hr class=&quot;my-12 border-gray-200&quot;&gt;
+&lt;h3 class=&quot;text-xl font-semibold text-center&quot;&gt;Interaction Flow&lt;&#x2F;h3&gt;
+&lt;div class=&quot;mt-6 mx-auto&quot;&gt;
+  &lt;a href=&quot;&#x2F;images&#x2F;medreports.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;medbot-gallery&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;medreports.png&quot;
+         alt=&quot;MedBot report command interaction&quot;
+         class=&quot;w-1&#x2F;2 mx-auto rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+  &lt;&#x2F;a&gt;
+  &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+    Structured command flow guiding users through report submission with clear confirmation feedback.
+  &lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Guided User Prompts&lt;&#x2F;h3&gt;
+&lt;div class=&quot;grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto&quot;&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;report1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;medbot-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;report1.png&quot;
+           alt=&quot;User submitting a report&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Structured input reduces ambiguity and minimizes user error.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;report2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;medbot-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;report2.png&quot;
+           alt=&quot;Bot confirmation message&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Immediate feedback improves clarity and user confidence.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 class=&quot;mt-12 text-xl font-semibold text-center&quot;&gt;Automated Data &amp; Transparency&lt;&#x2F;h3&gt;
+&lt;div class=&quot;grid md:grid-cols-2 gap-8 mt-6 max-w-5xl mx-auto&quot;&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;sheet1.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;medbot-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;sheet1.png&quot;
+           alt=&quot;Google Sheets report log&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Centralized report logging eliminates manual data entry.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div&gt;
+    &lt;a href=&quot;&#x2F;images&#x2F;sheet2.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;medbot-gallery&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;sheet2.png&quot;
+           alt=&quot;Monthly leaderboard tracking&quot;
+           class=&quot;w-full rounded shadow-lg cursor-pointer&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;p class=&quot;text-sm text-gray-500 text-center mt-2&quot;&gt;
+      Automated monthly aggregation increases transparency and motivation.
+    &lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

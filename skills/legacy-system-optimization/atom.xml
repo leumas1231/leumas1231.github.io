@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Samuel Jindra - Legacy System Optimization</title>
+    <subtitle>Samuel Jindra&#x27;s Software&#x2F;Web Portfolio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://sjindra31.github.io/skills/legacy-system-optimization/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sjindra31.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <id>https://sjindra31.github.io/skills/legacy-system-optimization/atom.xml</id>
+    <entry xml:lang="en">
+        <title>IT Consultant - Microsoft Access</title>
+        <published>2025-12-01T00:00:00+00:00</published>
+        <updated>2025-12-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sjindra31.github.io/projects/itconsult/"/>
+        <id>https://sjindra31.github.io/projects/itconsult/</id>
+        
+        <content type="html" xml:base="https://sjindra31.github.io/projects/itconsult/">&lt;p&gt;As an independent IT consultant, I worked with a local organization to evaluate and improve usability within a legacy Microsoft Access application. My focus was on streamlining workflows, reducing manual effort, and enhancing clarity within an existing system without disrupting operational continuity. A primary objective was enabling the owner to easily generate meaningful reports to better understand and manage business processes.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Evaluated and improved user workflows within a legacy Microsoft Access application.&lt;&#x2F;li&gt;
+&lt;li&gt;Identified usability challenges and implemented interface and logic improvements using VBA.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborated with business stakeholders to understand user needs and translate them into system enhancements.&lt;&#x2F;li&gt;
+&lt;li&gt;Performed testing and validation to ensure changes were reliable and did not disrupt existing workflows.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;The organization relied on a legacy Microsoft Access application to manage internal workflows. Over time, the system became difficult to navigate and maintain due to:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Inconsistent form behavior&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Manual processes that increased user effort&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited feedback for user actions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Growing complexity in logic and reporting&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Users needed a more streamlined, intuitive workflow without requiring a complete system overhaul.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process-impact&quot;&gt;Process &amp;amp; Impact&lt;&#x2F;h2&gt;
+&lt;p&gt;I began by analyzing the database structure, form layouts, and existing VBA logic to understand how users interacted with the system and where friction occurred. I also collaborated closely with the stakeholder to document requested changes and prioritize enhancements based on workflow impact.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mapped user workflows to identify bottlenecks and redundant manual steps&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Identified usability challenges in form design and interaction feedback&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented VBA enhancements to automate repetitive tasks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified form logic to create clearer, more predictable interactions&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborated directly with stakeholders to translate operational needs into practical improvements&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Tested and validated changes to ensure reliability and minimize disruption&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;Working within a legacy system reinforced the importance of balancing user needs with technical constraints. I learned that meaningful UX improvements often come from careful workflow evaluation and incremental enhancements rather than rebuilding from scratch. This experience strengthened my ability to analyze user behavior, simplify complex processes, and deliver practical solutions within real-world limitations.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
