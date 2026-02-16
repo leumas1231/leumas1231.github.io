@@ -66,7 +66,7 @@ From our initial user interviews, we discovered:
 
 ## Process & Design Evolution
 <br>
-<b></b>User Flows</b>
+<b>User Flows</b>
 
 We created user flows to visualize two key roles:
 
@@ -120,7 +120,8 @@ Key changes during iteration:
 User feedback directly influenced our digital prototype refinement, improving clarity and reducing cognitive load. 
 
 <br>
-<b>Reflection</b>
+
+## Reflection
 
 This project reinforced how powerful structured information can be in decision-making systems. By centering our design on real user frustrations, we moved beyond generic ratings and toward meaningful transparency.
 
