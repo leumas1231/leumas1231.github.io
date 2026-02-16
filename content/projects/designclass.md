@@ -66,7 +66,7 @@ From our initial user interviews, we discovered:
 
 ## Process & Design Evolution
 <br>
-User Flows
+<b></b>User Flows</b>
 
 We created user flows to visualize two key roles:
 
@@ -77,7 +77,7 @@ We created user flows to visualize two key roles:
 Mapping these flows helped us define system structure and reduce friction points.
 
 <br>
-Personas
+<b>Personas</b>
 
 We narrowed our scope around the viewer persona, since they are the primary decision-maker. Our personas clarified:
 
@@ -88,7 +88,7 @@ We narrowed our scope around the viewer persona, since they are the primary deci
 - Needs (clear, scannable, trustworthy detail)
 
 <br>
-Storyboarding
+<b>Storyboarding</b>
 
 We developed two storyboards:
 
@@ -99,7 +99,7 @@ We developed two storyboards:
 These helped validate task flows before prototyping.
 
 <br>
-Prototyping → Paper to Digital
+<b>Prototyping → Paper to Digital</b>
 
 We began with paper prototypes to quickly test layout and interaction concepts.
 
@@ -120,7 +120,7 @@ Key changes during iteration:
 User feedback directly influenced our digital prototype refinement, improving clarity and reducing cognitive load. 
 
 <br>
-**Reflection**
+<b>Reflection</b>
 
 This project reinforced how powerful structured information can be in decision-making systems. By centering our design on real user frustrations, we moved beyond generic ratings and toward meaningful transparency.
 
